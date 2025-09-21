@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "text": "Always reliable and on time! Their exceptional service has streamlined our logistics operations. Highly recommended!",
+    "name": "Amine Ben Salah",
+    "company": "Tunis Logistics",
+    "image": "/assets/img/testi-user01.jpg"
+  },
+  {
+    "id": 2,
+    "text": "Punctual and professional! Their high-quality service has greatly improved our supply chain. Highly recommended!",
+    "name": "Ons Trabelsi",
+    "company": "Mediterranean Import Export",
+    "image": "/assets/img/testi-user02.jpg"
+  },
+  {
+    "id": 3,
+    "text": "Efficient and trustworthy! Their support helped us optimize our delivery times and operations.",
+    "name": "Hatem Gharbi",
+    "company": "AgroFood Tunisia",
+    "image": "/assets/img/testi-user03.jpg"
+  },
+  {
+    "id": 4,
+    "text": "Always attentive! Their responsiveness and professionalism had a real positive impact on our business.",
+    "name": "Syrine Ben Youssef",
+    "company": "MedTech Solutions",
+    "image": "/assets/img/testi-user04.png"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Home",
+    "path": "/",
+    "subItems": []
+  },
+  {
+    "title": "About",
+    "path": "/about",
+    "subItems": [
+     
+    ]
+  },
+  {
+    "title": "Services",
+    "path": "/services",
+    "subItems": []
+  },
+  {
+    "title": "Blog",
+    "path": "/blog",
+    "subItems": [
+     
+    ]
+  },
+  {
+    "title": "Contact",
+    "path": "/contact-us",
+    "subItems": []
+  }
+]

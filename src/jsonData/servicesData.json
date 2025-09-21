@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "flaticon-cargo-ship",
+    "title": "Sea Freight",
+    "description": "Reliable international sea transport including groupage, chartering, and customs clearance."
+  },
+  {
+    "id": 2,
+    "icon": "flaticon-airplane",
+    "title": "Air Freight",
+    "description": "Fast and customized air freight solutions to meet your deadlines and optimize your supply chain."
+  },
+  {
+    "id": 3,
+    "icon": "flaticon-airplane",
+    "title": "Customs Transit",
+    "description": "Complete management of administrative and customs formalities for smooth import and export operations."
+  }
+]
