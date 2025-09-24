@@ -12,18 +12,22 @@ import ClientArea from "@/components/ClientArea/ClientArea";
 import HomeServicesSection from "@/components/Services/HomeServicesSection";
 import TeamSliderSection from "@/components/TeamMembers/TeamSliderSection";
 import BlogsHomeContent from "@/components/Blogs/BlogsHomeContent";
+import CtaSection from "@/components/CtaSection/CtaSection";
 
 function Home() {
   return (
     <>
       <HeroSlider />
-      <ExpertiseSection />
+       <MovingTextSection />
+      <ExpertiseSection style={"style3"}/>
       <AboutSection />
-      <MovingTextSection />
+
       <HomeServicesSection />
      
       <Counter />
-      <QuoteProcess />
+      {/* <QuoteProcess /> */}
+            <CtaSection style={"style2"} />
+
        <Testimonials />
       <TeamSliderSection />
       <CompanyFeature />
