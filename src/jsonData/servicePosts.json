@@ -2,180 +2,135 @@
   {
     "id": 1,
     "serviceId": 1,
-    "title": "Freight Transportation",
+    "title": "Air Freight",
     "paragraphs": [
-      "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur."
+      "ILS EXPRESS offers fast and customized air transport solutions designed to meet strict deadlines and ensure supply chain efficiency. Our team of specialists provides tailor-made services for every destination."
     ],
-    "imageSrc": "/assets/img/service-single.jpg",
+    "imageSrc": "/assets/img/service-air.jpg",
     "sections": [
       {
         "title": "Overview of Services",
-        "content": "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur."
+        "content": "At ILS EXPRESS, we provide reliable and fast international air freight solutions. From urgent deliveries to specialized cargo, we ensure flexibility and efficiency across all operations."
       },
       {
         "title": "Service Key Features",
-        "content": "Before you start searching for a logistics partner, it's essential to have a clear understanding of your business's specific requirements. Consider factors such as the volume of goods you need to transport."
+        "content": "ILS EXPRESS offers dedicated air freight specialists, global reach, compliance with international standards, and creative solutions tailored to client needs."
       }
     ],
     "FrequentlyQuestion": {
       "title": "Frequently Asked Question",
-      "content": "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+      "content": "How does ILS EXPRESS ensure air cargo arrives on time? Our team works closely with global partners and uses optimized routes to guarantee punctual deliveries."
     },
     "features": [
       {
         "id": 1,
-        "title": "Comprehensive Supply Chain Management",
-        "description": "The guarantee of reliable and efficient service is our mission."
+        "title": "Fast Delivery",
+        "description": "ILS EXPRESS ensures your goods reach their destination quickly and securely."
       },
       {
         "id": 2,
-        "title": "Efficient Transportation Solutions",
-        "description": "The guarantee of reliable and efficient service is our mission."
+        "title": "Customized Solutions",
+        "description": "Tailor-made logistics plans adapted to your deadlines and cargo type."
       },
       {
         "id": 3,
-        "title": "Comprehensive Supply Chain Management",
-        "description": "The guarantee of reliable and efficient service is our mission."
+        "title": "Global Expertise",
+        "description": "Strong partnerships with certified agents worldwide through ILS EXPRESS."
       },
       {
         "id": 4,
-        "title": "Efficient Transportation Solutions",
-        "description": "The guarantee of reliable and efficient service is our mission."
+        "title": "Dedicated Support",
+        "description": "Expert guidance and monitoring for every shipment with ILS EXPRESS."
       }
     ]
   },
   {
     "id": 2,
     "serviceId": 2,
-    "title": "Warehousing & Distribution",
+    "title": "Sea Freight",
     "paragraphs": [
-      "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur."
+      "ILS EXPRESS provides reliable and efficient sea freight services, including full container loads (FCL), less-than-container loads (LCL), groupage, and chartering. We manage all types of cargo from standard to specialized."
     ],
-    "imageSrc": "/assets/img/service-single.jpg",
+    "imageSrc": "/assets/img/service-sea.jpg",
     "sections": [
       {
         "title": "Overview of Services",
-        "content": "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur."
+        "content": "ILS EXPRESS delivers international sea transport solutions supported by a global network of certified agents and warehouses."
       },
       {
         "title": "Service Key Features",
-        "content": "Before you start searching for a logistics partner, it's essential to have a clear understanding of your business's specific requirements. Consider factors such as the volume of goods you need to transport."
+        "content": "Our sea freight services include Door-to-Door delivery, groupage, customs clearance, and handling of dangerous or perishable goods."
       }
     ],
     "FrequentlyQuestion": {
       "title": "Frequently Asked Question",
-      "content": "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+      "content": "Does ILS EXPRESS handle dangerous or perishable goods? Yes, our team is fully trained and certified to manage specialized cargo safely."
     },
     "features": [
       {
         "id": 1,
-        "title": "Comprehensive Supply Chain Management",
-        "description": "The guarantee of reliable and efficient service is our mission."
+        "title": "Door-to-Door Service",
+        "description": "ILS EXPRESS manages your cargo from origin to final delivery point."
       },
       {
         "id": 2,
-        "title": "Efficient Transportation Solutions",
-        "description": "The guarantee of reliable and efficient service is our mission."
+        "title": "Special Cargo Handling",
+        "description": "Expertise in dangerous, perishable, and agri-food products."
       },
       {
         "id": 3,
-        "title": "Comprehensive Supply Chain Management",
-        "description": "The guarantee of reliable and efficient service is our mission."
+        "title": "Global Network",
+        "description": "ILS EXPRESS ensures worldwide reach through reliable agents and certified warehouses."
       },
       {
         "id": 4,
-        "title": "Efficient Transportation Solutions",
-        "description": "The guarantee of reliable and efficient service is our mission."
+        "title": "Flexible Solutions",
+        "description": "Options for FCL, LCL, Ro-Ro, and conventional cargo with ILS EXPRESS."
       }
     ]
   },
   {
     "id": 3,
     "serviceId": 3,
-    "title": "Supply Chain Management",
+    "title": "Customs Transit",
     "paragraphs": [
-      "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur."
+      "ILS EXPRESS provides complete customs and administrative management for import and export operations. We ensure compliance and smooth clearance for all shipments."
     ],
-    "imageSrc": "/assets/img/service-single.jpg",
+    "imageSrc": "/assets/img/service-cu.jpg",
     "sections": [
       {
         "title": "Overview of Services",
-        "content": "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur."
+        "content": "ILS EXPRESS handles everything from documentation to customs clearance, providing full support for international trade operations."
       },
       {
         "title": "Service Key Features",
-        "content": "Before you start searching for a logistics partner, it's essential to have a clear understanding of your business's specific requirements. Consider factors such as the volume of goods you need to transport."
+        "content": "Our customs experts assist with import/export procedures, optimize transit solutions, and ensure compliance with all regulatory standards."
       }
     ],
     "FrequentlyQuestion": {
       "title": "Frequently Asked Question",
-      "content": "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
+      "content": "How does ILS EXPRESS simplify customs clearance? Our experts manage all documentation and liaise directly with customs authorities."
     },
     "features": [
       {
         "id": 1,
-        "title": "Comprehensive Supply Chain Management",
-        "description": "The guarantee of reliable and efficient service is our mission."
+        "title": "Customs Expertise",
+        "description": "ILS EXPRESS ensures compliance with all regulatory and administrative requirements."
       },
       {
         "id": 2,
-        "title": "Efficient Transportation Solutions",
-        "description": "The guarantee of reliable and efficient service is our mission."
+        "title": "End-to-End Support",
+        "description": "From import/export documentation to final clearance with ILS EXPRESS."
       },
       {
         "id": 3,
-        "title": "Comprehensive Supply Chain Management",
-        "description": "The guarantee of reliable and efficient service is our mission."
+        "title": "Optimized Transit",
+        "description": "Efficient solutions for FCL, LTL, Ro-Ro, and heavy cargo provided by ILS EXPRESS."
       },
       {
         "id": 4,
-        "title": "Efficient Transportation Solutions",
-        "description": "The guarantee of reliable and efficient service is our mission."
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "serviceId": 4,
-    "title": "E-Commerce Solutions",
-    "paragraphs": [
-      "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur."
-    ],
-    "imageSrc": "/assets/img/service-single.jpg",
-    "sections": [
-      {
-        "title": "Overview of Services",
-        "content": "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur."
-      },
-      {
-        "title": "Service Key Features",
-        "content": "Before you start searching for a logistics partner, it's essential to have a clear understanding of your business's specific requirements. Consider factors such as the volume of goods you need to transport."
-      }
-    ],
-    "FrequentlyQuestion": {
-      "title": "Frequently Asked Question",
-      "content": "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old."
-    },
-    "features": [
-      {
-        "id": 1,
-        "title": "Comprehensive Supply Chain Management",
-        "description": "The guarantee of reliable and efficient service is our mission."
-      },
-      {
-        "id": 2,
-        "title": "Efficient Transportation Solutions",
-        "description": "The guarantee of reliable and efficient service is our mission."
-      },
-      {
-        "id": 3,
-        "title": "Comprehensive Supply Chain Management",
-        "description": "The guarantee of reliable and efficient service is our mission."
-      },
-      {
-        "id": 4,
-        "title": "Efficient Transportation Solutions",
-        "description": "The guarantee of reliable and efficient service is our mission."
+        "title": "Seamless Operations",
+        "description": "Smooth customs procedures to avoid delays and reduce costs with ILS EXPRESS."
       }
     ]
   }

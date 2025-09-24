@@ -21,7 +21,7 @@ const ServiceDetailsContent = ({ servicesId }) => {
               <div className="col-lg-4">
                 <div className="reverse-widget">
                   <ServiceList />
-                  <DownloadBrochure />
+              
                   <GetInTouch />
                 </div>
               </div>
