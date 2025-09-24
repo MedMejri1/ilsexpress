@@ -21,14 +21,15 @@ function Home() {
       <AboutSection />
       <MovingTextSection />
       <HomeServicesSection />
-      <Testimonials />
+     
       <Counter />
       <QuoteProcess />
+       <Testimonials />
       <TeamSliderSection />
       <CompanyFeature />
       <ProjectSlider />
       {/* <BlogsHomeContent /> */}
-      <ClientArea />
+      {/* <ClientArea /> */}
     </>
   );
 }

@@ -12,17 +12,17 @@ const HeaderSideBar = ({ className, ref }) => {
             <img src="/assets/img/logo.png" alt="Logo" />
           </Link>
           <p>
-            La garantie d’un service fiable et performant, c’est notre mission.
+            The guarantee of reliable and efficient service is our mission.
           </p>
         </div>
         <div className="cs-sidebar-middle-area">
           <p>Immeuble Golden Towers sis au Centre Urbain Nord 1082 TUNIS.
 </p>
           <div className="cs-sidebar-emai-phone">
-            <Link to="#" className="cs-text-style-h6">
-              +21653448408
+            <Link to="+21653448408" className="cs-text-style-h6">
+              +216 53448408
             </Link>
-            <Link to="#" className="cs-text-style-h6">
+            <Link to="contact@ilsexpress.tn" className="cs-text-style-h6">
               contact@ilsexpress.tn
             </Link>
           </div>

@@ -5,7 +5,7 @@ import YouTubeModal from "@/components/VideoSection/YouTubeModal";
 const companyData = {
   title: "Drive Your Business Forward with Leading Company",
   description:
-    "La garantie d’un service fiable et performant, c’est notre mission. La garantie d’un service fiable et performant, c’est notre mission.",
+    "The guarantee of reliable and efficient service is our mission. The guarantee of reliable and efficient service is our mission.",
   features: [
     {
       year: "2006",

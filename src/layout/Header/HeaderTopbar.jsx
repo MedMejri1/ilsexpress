@@ -8,7 +8,7 @@ const HeaderTopbar = () => {
         <div className="cs-topbar-container">
           <div className="cs-topbar-left">
             <span className="cs-small-text cs-color-black">
-              Immeuble Golden Towers sis au Centre Urbain Nord 1082 TUNIS.
+              ilsExpress – Moving the World Forward.
 
             </span>
           </div>

@@ -10,7 +10,7 @@ const services = [
     iconClass: "flaticon-up-right-arrow",
     title: "End-to-End Delivery",
     description:
-      "La garantie d’un service fiable et performant, c’est notre mission.",
+      "The guarantee of reliable and efficient service is our mission.",
     imageSrc: "/assets/img/air-freight/service-item-bg-img.jpg",
   },
   {
@@ -18,7 +18,7 @@ const services = [
     iconClass: "flaticon-up-right-arrow",
     title: "Priority Air Freight",
     description:
-      "La garantie d’un service fiable et performant, c’est notre mission.",
+      "The guarantee of reliable and efficient service is our mission.",
     imageSrc: "/assets/img/air-freight/service-item-bg-img2.jpg",
   },
   {
@@ -26,7 +26,7 @@ const services = [
     iconClass: "flaticon-up-right-arrow",
     title: "Express Air Freight",
     description:
-      "La garantie d’un service fiable et performant, c’est notre mission.",
+      "The guarantee of reliable and efficient service is our mission.",
     imageSrc: "/assets/img/air-freight/service-item-bg-img3.jpg",
   },
   {
@@ -34,7 +34,7 @@ const services = [
     iconClass: "flaticon-up-right-arrow",
     title: "Warehousing",
     description:
-      "La garantie d’un service fiable et performant, c’est notre mission.",
+      "The guarantee of reliable and efficient service is our mission.",
     imageSrc: "/assets/img/air-freight/service-item-bg-img4.jpg",
   },
 ];

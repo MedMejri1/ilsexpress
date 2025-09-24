@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const aboutData = {
   title: "Drive Your Business Forward with LogiHub",
   description:
-    "La garantie d’un service fiable et performant, c’est notre mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+    "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
   image: "/assets/img/ocean-cargo/ocean-cargo-about-img.png",
   services: [
     "Freight Forwarding",

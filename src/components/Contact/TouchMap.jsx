@@ -6,7 +6,7 @@ import MapHotspot from "./MapHotspot";
 const contactData = {
   title: "Get In Touch",
   description:
-    "La garantie d’un service fiable et performant, c’est notre mission. It has roots in a piece of classic random text.",
+    "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classic random text.",
   offices: [
     {
       title: "Corporate Office",

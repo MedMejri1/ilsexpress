@@ -6,26 +6,27 @@ import RevealImage from "@/components/RevealImage/RevealImage";
 const features = [
   {
     id: 1,
-    title: "Our Begins",
-    year: "2006",
+    title: "Our Beginning",
+    year: "2019",
     description:
-      "Flexible and efficient road transportation across local and international routes.",
+      "Foundation of ILS EXPRESS, launching reliable logistics and international freight services.",
   },
   {
     id: 2,
-    title: "Achievement",
-    year: "2012",
+    title: "Expansion",
+    year: "2022",
     description:
-      "Flexible and efficient road transportation across local and international routes.",
+      "Strong growth with larger operations, expanded global partnerships, and increased service capacity.",
   },
   {
     id: 3,
-    title: "Concepts",
-    year: "2024",
+    title: "Rebranding & Growth",
+    year: "2025",
     description:
-      "Flexible and efficient road transportation across local and international routes.",
+      "A new identity for ILS EXPRESS with rebranding, modernization, and accelerated growth in logistics solutions.",
   },
 ];
+
 
 const CompanyFeature = () => {
   return (

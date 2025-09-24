@@ -22,7 +22,7 @@ const Footer = () => {
                   />
                 </FooterSectionTitle>
               </div>
-              <div className="col-lg-3 col-md-6">
+              {/* <div className="col-lg-3 col-md-6">
                 <FooterSectionTitle title="Canada Office">
                   <ContactInfo
                     address="Immeuble Golden Towers sis au Centre Urbain Nord 1082 TUNIS.
@@ -31,7 +31,7 @@ const Footer = () => {
                     email="contact@ilsexpress.tn"
                   />
                 </FooterSectionTitle>
-              </div>
+              </div> */}
               <div className="col-lg-2 col-md-5">
                 <FooterSectionTitle title="Useful Link">
                   <UsefulLinks />

@@ -6,26 +6,26 @@ const faqs = [
     id: 1,
     title: "What services does your logistics company provide?",
     description:
-      "La garantie d’un service fiable et performant, c’est notre mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia. It has roots in a piece of classical.",
+      "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia. It has roots in a piece of classical.",
   },
   {
     id: 2,
     title:
       "How do you ensure the safety and security of goods during transportation?",
     description:
-      "La garantie d’un service fiable et performant, c’est notre mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia. It has roots in a piece of classical.",
+      "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia. It has roots in a piece of classical.",
   },
   {
     id: 3,
     title: "How do you handle customs clearance for international shipments?",
     description:
-      "La garantie d’un service fiable et performant, c’est notre mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia. It has roots in a piece of classical.",
+      "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia. It has roots in a piece of classical.",
   },
   {
     id: 4,
     title: "How do you ensure sustainability in your logistics operations?",
     description:
-      "La garantie d’un service fiable et performant, c’est notre mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia. It has roots in a piece of classical.",
+      "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia. It has roots in a piece of classical.",
   },
 ];
 
