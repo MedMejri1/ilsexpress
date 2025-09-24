@@ -2,16 +2,16 @@ import React from "react";
 import ContactAllContent from "@/components/Contact/ContactAllContent";
 import ClientAreaAbout from "@/components/ClientArea/ClientAreaAbout";
 import GoogleMap from "@/components/Contact/GoogleMap";
-import BraidcrumbStyleTwo from "@/components/BreadCrumb/BraidcrumbStyleTwo";
+import BreadCrumb from "@/components/BreadCrumb/BreadCrumb";
 
 const ContactUs = () => {
   return (
     <>
-      <BraidcrumbStyleTwo title={"Contact Us"} />
+      <BreadCrumb title={"Contact Us"} />
       <div className="cs-section-height"></div>
       <ContactAllContent />
       <div className="cs-section-height"></div>
-      <ClientAreaAbout />
+      {/* <ClientAreaAbout /> */}
       <GoogleMap />
     </>
   );

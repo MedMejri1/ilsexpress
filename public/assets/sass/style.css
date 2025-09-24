@@ -11,7 +11,10 @@
   --border-color: #ececec;
   --common-color-white: #ffffff;
   --common-color-black: #000000;
-  --dark-bg: #004041;
+  --dark-bg: #262626
+
+
+;
 }
 
 .cs_white_color,
@@ -652,7 +655,10 @@ textarea {
             backdrop-filter: blur(50px);
   }
   .cs_site_header.header-no-bg.cs_gescout_show .cs-header-emai-phone {
-    background: #004041;
+    background: #262626
+
+
+;
     -webkit-backdrop-filter: blur(50px);
             backdrop-filter: blur(50px);
     border: none;
@@ -1593,7 +1599,10 @@ footer h6 {
   color: #fff;
 }
 footer .cs-logi-footer-container {
-  background: #004041;
+  background: #262626
+
+
+;
   color: #fff;
   padding-top: 120px;
   position: relative;
@@ -2450,7 +2459,10 @@ label {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #004041;
+  background: #262626
+
+
+;
   border-radius: 10px;
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
@@ -3212,7 +3224,10 @@ button i {
 .cs-hero-slider-wrap.cs-hero-ocean-cargo .cs-hero-slider-arrow i {
   font-size: 60px;
   color: rgba(255, 255, 255, 0.5);
-  -webkit-text-stroke: 2.5px #004041;
+  -webkit-text-stroke: 2.5px #262626
+
+
+;
   transition: all 0.3s ease;
 }
 .cs-hero-slider-wrap.cs-hero-ocean-cargo .cs-hero-slider-arrow i:hover {
@@ -3489,7 +3504,10 @@ button i {
   max-height: 100%;
 }
 .cs-expertise-wrap.expert-full-zig {
-  background: #004041;
+  background: #262626
+
+
+;
 }
 .cs-expertise-wrap.expert-full-zig .container-fluid {
   padding: 0px 10px;
@@ -3836,7 +3854,10 @@ button i {
   18. Services Style
 ----------------------------------------------------------------*/
 .cs-service-sec-wrapper {
-  background: #004041;
+  background: #262626
+
+
+;
   color: #fff;
 }
 .cs-service-sec-wrapper .cs-sec-title h2 {
@@ -4395,7 +4416,10 @@ button i {
   position: relative;
   height: 400px;
   transition: background-position 0.9s ease-out;
-  background-color: #004041;
+  background-color: #262626
+
+
+;
   background-size: cover;
   overflow: hidden;
 }
@@ -4751,7 +4775,10 @@ button i {
   flex-shrink: 0;
   -webkit-clip-path: polygon(100% 0, 0 100%, 100% 100%);
           clip-path: polygon(100% 0, 0 100%, 100% 100%);
-  background-color: #004041;
+  background-color: #262626
+
+
+;
   z-index: 11;
 }
 .cs-project-slider-wrapper .cs-ps-slider-thumb .cs-thumb-in {
@@ -4922,7 +4949,10 @@ button i {
   left: 30px;
   font-size: 90px;
   opacity: 0.05;
-  color: #004041;
+  color: #262626
+
+
+;
 }
 .cs-quote-card-wrap .cs-quote-in .cs-quote-text {
   padding: 50px;
@@ -4936,7 +4966,10 @@ button i {
   line-height: 150%;
 }
 .cs-quote-card-wrap.cs-quote-dark {
-  background: #004041;
+  background: #262626
+
+
+;
 }
 .cs-quote-card-wrap.cs-quote-dark i {
   color: #fff;
@@ -5061,7 +5094,10 @@ button i {
   padding-top: 0px;
 }
 .cs-social-common.cs-blog-share ul li {
-  border: 1px solid #004041;
+  border: 1px solid #262626
+
+
+;
 }
 .cs-social-common.cs-blog-share ul li:last-child {
   margin: 0px;
@@ -5157,7 +5193,10 @@ button i {
 }
 
 .cs_accordian_header.active {
-  background-color: #004041 !important;
+  background-color: #262626
+
+
+ !important;
   color: #fff !important;
   transition: all 0.4s ease;
 }
@@ -5187,7 +5226,10 @@ button i {
 }
 
 .cs-left-navigation-wrap {
-  background: #004041;
+  background: #262626
+
+
+;
   padding: 40px 30px;
 }
 .cs-left-navigation-wrap .cs-left-nav-in ul {
@@ -5382,7 +5424,31 @@ button i {
   color: #fff;
   opacity: 0.2;
   transition: all 0.4s ease;
-  text-shadow: -1px -1px 0 #004041, 0px -1px 0 #004041, 1px -1px 0 #004041, 1px 0px 0 #004041, 1px 1px 0 #004041, 0px 1px 0 #004041, -1px 1px 0 #004041, -1px 0 0 #004041;
+  text-shadow: -1px -1px 0 #262626
+
+
+, 0px -1px 0 #262626
+
+
+, 1px -1px 0 #262626
+
+
+, 1px 0px 0 #262626
+
+
+, 1px 1px 0 #262626
+
+
+, 0px 1px 0 #262626
+
+
+, -1px 1px 0 #262626
+
+
+, -1px 0 0 #262626
+
+
+;
 }
 .cs-com-feature-wrapper .cs-com-feature-content .cs-com-fe-text {
   max-width: 450px;
@@ -5564,7 +5630,10 @@ button i {
   margin-top: -205px;
 }
 .cs-quote-process-wrap .cs-quote-form-container .quote-form-content-in {
-  background: #004041;
+  background: #262626
+
+
+;
   -webkit-clip-path: polygon(10% 0%, 100% 0, 100% 10%, 100% 90%, 90% 100%, 0 100%, 0% 90%, 0% 10%);
           clip-path: polygon(10% 0%, 100% 0, 100% 10%, 100% 90%, 90% 100%, 0 100%, 0% 90%, 0% 10%);
   padding: 80px 80px;
@@ -5614,7 +5683,10 @@ button i {
   width: 100%;
 }
 .cs-form-select option {
-  background-color: #004041;
+  background-color: #262626
+
+
+;
   padding-right: 20px;
 }
 .cs-form-select .cs-default-dropdown {
@@ -5870,7 +5942,10 @@ button i {
   position: absolute;
   width: 350px;
   height: 130px;
-  background: #004041;
+  background: #262626
+
+
+;
   -webkit-clip-path: polygon(11% 0, 100% 0, 100% 80%, 89% 100%, 0 100%, 0% 20%);
           clip-path: polygon(11% 0, 100% 0, 100% 80%, 89% 100%, 0 100%, 0% 20%);
   -webkit-user-select: none;
@@ -5949,7 +6024,10 @@ button i {
   justify-content: space-between;
 }
 .cs-contact-page-content .cs-contact-page-form-wrap {
-  background: #004041;
+  background: #262626
+
+
+;
   padding: 150px 100px;
 }
 

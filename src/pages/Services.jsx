@@ -12,11 +12,11 @@ const Services = () => {
     <>
       <BreadCrumb title={"Services"} />
       <ServicesSection />
-      <ExpertiseSection style="style3" />
-      <Testimonials />
-      <Counter style="style2" />
+      {/* <ExpertiseSection style="style3" />
+      <Testimonials /> */}
+      {/* <Counter style="style2" /> */}
       <div className="cs-section-height"></div>
-      <ClientAreaAbout />
+      {/* <ClientAreaAbout /> */}
       <CtaSection style="style3" />
     </>
   );

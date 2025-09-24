@@ -17,13 +17,6 @@
     "subItems": []
   },
   {
-    "title": "Blog",
-    "path": "/blog",
-    "subItems": [
-     
-    ]
-  },
-  {
     "title": "Contact",
     "path": "/contact-us",
     "subItems": []

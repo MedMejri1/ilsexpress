@@ -39,7 +39,7 @@ const CtaSection = ({ style, bg = null }) => {
             <div className={csCtaCont}>
               <div className={csCtaTitle}>
                 <TitleAnimation className={"cs_white_color"}>
-                  Experience Reliable Logistics Contact Us Today
+                  Streamline Your Logistics with ILS EXPRESS — Contact Us Now
                 </TitleAnimation>
               </div>
               <div className="cs-cta-btn">

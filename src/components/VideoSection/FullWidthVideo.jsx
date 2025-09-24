@@ -8,16 +8,17 @@ const videoData = [
   {
     type: "youtube",
     thumbnail: "/assets/img/full-w-video-thumbnail.jpg",
-    videoUrl: "q5UWVgxt3gk", // Only the video ID is needed
+    videoUrl: "9zRL5wLHTeA", // Only the video ID is needed
   },
-  {
-    type: "local",
-    videoSrc: "/assets/video/full-w-video-2.mp4",
+ {
+    type: "youtube",
+    thumbnail: "/assets/img/full-w-video-thumbnail.jpg",
+    videoUrl: "9zRL5wLHTeA", // Only the video ID is needed
   },
-  {
-    type: "local",
-    videoSrc: "/assets/video/full-w-video-1.mp4",
-  },
+  // {
+  //   type: "local",
+  //   videoSrc: "/assets/video/full-w-video-1.mp4",
+  // },
 ];
 
 const FullWidthVideo = () => {

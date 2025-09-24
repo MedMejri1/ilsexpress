@@ -11,11 +11,14 @@ $border: #ececec;
 $gray: #181818;
 $hrcOlor: #d9d9d9;
 $cr_banner: #f4f4f4;
-$accent: #3E79BD;
+$accent: #2f6dfb;
 $gray_sc: #f3f3f3;
-$dark-bg: #004041;
+$dark-bg: #262626
+
+
+;
 :root {
-  --accent-color: #3E79BD;
+  --accent-color: #2f6dfb;
   --body-color: #4a4a4a;
   --heading-color: #0a0a0a;
   --primary-color: #101010;
@@ -23,7 +26,10 @@ $dark-bg: #004041;
   --border-color: #ececec;
   --common-color-white: #ffffff;
   --common-color-black: #000000;
-  --dark-bg: #004041;
+  --dark-bg: #262626
+
+
+;
 }
 
 .cs_white_color,

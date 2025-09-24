@@ -5,19 +5,20 @@ import TitleAnimation from "@/components/SectionTitle/TitleAnimation";
 import { Link } from "react-router-dom";
 
 const aboutData = {
-  title: "Drive Your Business Forward with LogiHub",
+  title: "Move Your Business Forward with ILS EXPRESS",
   description:
-    "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
-  image: "/assets/img/logo.png",
+    "At ILS EXPRESS, we guarantee reliable and efficient logistics solutions. Our mission is to provide tailor-made air, sea, and customs transit services that optimize costs and delivery times.",
+  image: "/assets/img/about-img-air.png",
   services: [
-    "Freight Forwarding",
-    "Warehousing & Delivery",
-    "Customs Clearance",
-    "Warehousing & Delivery",
-    "Customs Clearance",
-    "Freight Forwarding",
+    "Air Freight",
+    "Sea Freight",
+    "Customs Transit",
+    "Tailor-Made Solutions",
+    "Global Network of Agents",
+    "Import / Export Support",
   ],
 };
+
 
 const AboutStyleTwo = ({ style }) => {
   const { title, description, image, services } = aboutData;

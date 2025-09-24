@@ -27,7 +27,7 @@ function Home() {
        <Testimonials />
       <TeamSliderSection />
       <CompanyFeature />
-      <ProjectSlider />
+      {/* <ProjectSlider /> */}
       {/* <BlogsHomeContent /> */}
       {/* <ClientArea /> */}
     </>

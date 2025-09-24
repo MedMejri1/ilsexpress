@@ -16,15 +16,15 @@ function About() {
   return (
     <>
       <BreadCrumb title={"About Us"} />
-      <ClientAreaAbout />
+      {/* <ClientAreaAbout /> */}
       <MovingTextSection />
       <CompanyFeature />
-      <ExpertiseSection style={"style2"} />
+      <ExpertiseSection style={"style3"} />
       <FullWidthVideo />
       <Counter style={"style2"} />
       <AboutStyleTwo />
       <Testimonials />
-      <ProjectSlider />
+      {/* <ProjectSlider /> */}
       <TeamSliderSection />
       <CtaSection style={"style2"} />
     </>
