@@ -26,7 +26,7 @@ const Newsletter = () => {
   };
   return (
     <>
-      <p>Delivering Excellence in Global Logistics.</p>
+      <p>ilsExpress – Moving the World Forward.</p>
       <form className="cs-logi-newsletter" onSubmit={handleSubmit}>
         <input
           className="cs-newsletter-email"

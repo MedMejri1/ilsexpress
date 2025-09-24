@@ -5,7 +5,7 @@ import ContactForm from "./ContactForm";
 const contactData = {
   title: "Get In Touch",
   description:
-    "The guarantee of reliable and efficient service is our mission. It has roots in a piece of classic random text.",
+    "The guarantee of reliable and efficient service is our mission. Contact ILS EXPRESS today for tailored logistics solutions.",
   offices: [
     {
       title: "Corporate Office",

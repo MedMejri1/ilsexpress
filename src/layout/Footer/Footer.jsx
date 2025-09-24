@@ -12,11 +12,10 @@ const Footer = () => {
         <div className="cs-logi-footer-content">
           <div className="container">
             <div className="row">
-              <div className="col-lg-3 col-md-6">
+              <div className="col-lg-6 col-md-6">
                 <FooterSectionTitle title="Corporate Office">
                   <ContactInfo
-                    address="Immeuble Golden Towers sis au Centre Urbain Nord 1082 TUNIS.
-"
+                    address="Immeuble Golden Towers sis au Centre Urbain Nord 1082 TUNIS."
                     phone="+21653448408"
                     email="contact@ilsexpress.tn"
                   />
@@ -25,8 +24,7 @@ const Footer = () => {
               {/* <div className="col-lg-3 col-md-6">
                 <FooterSectionTitle title="Canada Office">
                   <ContactInfo
-                    address="Immeuble Golden Towers sis au Centre Urbain Nord 1082 TUNIS.
-"
+                    address="Immeuble Golden Towers sis au Centre Urbain Nord 1082 TUNIS."
                     phone="+21653448408"
                     email="contact@ilsexpress.tn"
                   />
@@ -47,7 +45,7 @@ const Footer = () => {
         </div>
         <div className="container">
           <CopyArea
-            logoAlt="LogiHub"
+            logoAlt="ilsExpress"
             brandText="ilsExpress – Moving the World Forward."
             copyrightText="All Rights Reserved."
             companyName="ils Express"
