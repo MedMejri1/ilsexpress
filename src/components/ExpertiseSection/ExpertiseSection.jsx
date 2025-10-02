@@ -23,6 +23,13 @@ const services = [
     description:
       "Complete management of administrative and customs formalities for your import/export operations.",
   },
+   {
+    id: 3,
+    icon: "flaticon-airplane",
+    title: "Customs Transit",
+    description:
+      "Complete management of administrative and customs formalities for your import/export operations.",
+  },
 ];
 
 

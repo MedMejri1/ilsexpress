@@ -171,7 +171,7 @@ const HeroSlider = () => {
                       <img
                         ref={(el) => (slideImagesRef.current[index] = el)}
                         src={slide.image}
-                        alt="LogiHub"
+                        alt=" "
                       />
                     </div>
                   </div>
