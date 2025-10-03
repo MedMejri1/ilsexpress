@@ -62,7 +62,7 @@ const Testimonials = () => {
                         >
                           <path
                             d="M30.1272 46L39.4171 0H54.1012V46H30.1272ZM0.15979 46L9.44969 0H24.1337V46H0.15979Z"
-                            fill="#3E79BD"
+                            fill="#2F6DFB"
                           />
                         </svg>
                       </div>
@@ -82,13 +82,13 @@ const Testimonials = () => {
                     {/* <div className="cs-user-img">
                       <img src={testimonial.image} alt={testimonial.name} />
                     </div> */}
-                    <div className="cs-user-info">
+                    {/* <div className="cs-user-info">
                       <h6>
                         <span>—</span>
                         {testimonial.name}
                       </h6>
                       <p>{testimonial.company}</p>
-                    </div>
+                    </div> */}
                   </div>
                 ))}
               </div>

@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 const aboutData = {
   image: "/assets/img/about-img-style-1.png",
   experience: {
-    years: 6,
+    years: 7,
     text: "Years of Experience",
   },
   title: "Take Your Business Further with ILS EXPRESS",

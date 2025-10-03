@@ -18,7 +18,7 @@ const FeatureItem = ({ feature }) => {
           >
             <path
               d="M0.870972 18.2441L18.6072 9.24414L0.870972 0.244141V18.2441Z"
-              fill="#3E79BD"
+              fill="#2F6DFB"
             />
             <path
               opacity="0.4"

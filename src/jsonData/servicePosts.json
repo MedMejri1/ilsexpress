@@ -133,5 +133,51 @@
         "description": "Smooth customs procedures to avoid delays and reduce costs with ILS EXPRESS."
       }
     ]
-  }
+  },
+  {
+  "id": 4,
+  "serviceId": 4,
+  "title": "Land Transport",
+  "paragraphs": [
+    "ILS EXPRESS provides reliable national and international road freight solutions. We ensure safe, secure, and on-time delivery through optimized routes and a modern fleet."
+  ],
+  "imageSrc": "/assets/img/service-land.jpg",
+  "sections": [
+    {
+      "title": "Overview of Services",
+      "content": "Our land transport service covers both domestic and cross-border shipments, offering flexible solutions including full truckload (FTL), less than truckload (LTL), and express deliveries."
+    },
+    {
+      "title": "Service Key Features",
+      "content": "We deliver cost-effective, safe, and fast national and international road transport solutions, supported by real-time tracking, experienced drivers, and a strong logistics network."
+    }
+  ],
+  "FrequentlyQuestion": {
+    "title": "Frequently Asked Question",
+    "content": "Does ILS EXPRESS provide both national and international land transport? Yes, we handle domestic deliveries as well as cross-border operations with full logistics support."
+  },
+  "features": [
+    {
+      "id": 1,
+      "title": "National & International Coverage",
+      "description": "Extensive logistics network ensuring smooth deliveries across borders and within the country."
+    },
+    {
+      "id": 2,
+      "title": "Flexible Solutions",
+      "description": "Tailored options for FTL, LTL, express, and specialized cargo transport."
+    },
+    {
+      "id": 3,
+      "title": "On-Time Delivery",
+      "description": "Optimized scheduling and planning to guarantee punctual transport services."
+    },
+    {
+      "id": 4,
+      "title": "Real-Time Tracking",
+      "description": "GPS tracking and live updates to keep you informed at every stage."
+    }
+  ]
+}
+
 ]

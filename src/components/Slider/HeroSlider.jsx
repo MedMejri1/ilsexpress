@@ -114,7 +114,7 @@ const HeroSlider = () => {
             </div>
 
             {/* Thumbnails */}
-            <div className="cs-hero-slider-thumb">
+            {/* <div className="cs-hero-slider-thumb">
               <div className="cs-thumb-in">
                 {slides.map((slide, index) => (
                   <div key={slide.id} className="cs-hero-thumb-item">
@@ -130,7 +130,7 @@ const HeroSlider = () => {
                   </div>
                 ))}
               </div>
-            </div>
+            </div> */}
           </div>
 
           {/* Swiper Slider */}

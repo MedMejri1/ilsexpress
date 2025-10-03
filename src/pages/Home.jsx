@@ -18,18 +18,14 @@ function Home() {
   return (
     <>
       <HeroSlider />
-       <MovingTextSection />
+      <MovingTextSection />
       <ExpertiseSection style={"style3"}/>
       <AboutSection />
-
       <HomeServicesSection />
-     
       <Counter />
-      {/* <QuoteProcess /> */}
-            <CtaSection style={"style2"} />
-
-       <Testimonials />
-      <TeamSliderSection />
+      <CtaSection style={"style2"} />
+      <Testimonials />
+      {/* <TeamSliderSection /> */}
       <CompanyFeature />
       {/* <ProjectSlider /> */}
       {/* <BlogsHomeContent /> */}

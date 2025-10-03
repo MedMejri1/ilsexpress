@@ -25,7 +25,7 @@ function About() {
       <AboutStyleTwo />
       <Testimonials />
       {/* <ProjectSlider /> */}
-      <TeamSliderSection />
+      {/* <TeamSliderSection /> */}
       <CtaSection style={"style2"} />
     </>
   );

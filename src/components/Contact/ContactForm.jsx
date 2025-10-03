@@ -60,7 +60,7 @@ const ContactForm = ({ style }) => {
             <input
               type="tel"
               className="form-control"
-              placeholder="+21653448408"
+              placeholder="+216 00 000 000"
               name="phone"
               required
             />

@@ -7,7 +7,7 @@ const features = [
   {
     id: 1,
     title: "Our Beginning",
-    year: "2019",
+    year: "2018",
     description:
       "Foundation of ILS EXPRESS, launching reliable logistics and international freight services.",
   },

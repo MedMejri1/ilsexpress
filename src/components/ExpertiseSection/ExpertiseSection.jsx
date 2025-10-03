@@ -18,19 +18,20 @@ const services = [
   },
   {
     id: 3,
-    icon: "flaticon-airplane",
+    icon: "flaticon-customs",
     title: "Customs Transit",
     description:
       "Complete management of administrative and customs formalities for your import/export operations.",
   },
-   {
-    id: 3,
-    icon: "flaticon-airplane",
-    title: "Customs Transit",
+  {
+    id: 4,
+    icon: "flaticon-truck",
+    title: "Land Transport",
     description:
-      "Complete management of administrative and customs formalities for your import/export operations.",
+      "Efficient and secure road freight services ensuring fast delivery across national and international routes.",
   },
 ];
+
 
 
 

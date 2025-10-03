@@ -26,7 +26,7 @@ const TeamMember = ({ member }) => {
           >
             <path
               d="M0.731567 18.4727L18.4678 9.47266L0.731567 0.472656V18.4727Z"
-              fill="#3E79BD"
+              fill="#2F6DFB"
             />
             <path
               opacity="0.4"
