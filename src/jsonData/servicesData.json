@@ -1,26 +1,32 @@
 [
   {
     "id": 1,
-    "icon": "flaticon-cargo-ship",
-    "title": "Sea Freight",
-    "description": "Reliable international sea transport including groupage, chartering, and customs clearance."
+    "icon": "flaticon-delivery-truck",
+    "title": "AIR FREIGHT",
+    "description": "Fast, secure, and reliable air shipping solutions for your deliveries to destinations around the world."
   },
   {
     "id": 2,
-    "icon": "flaticon-airplane",
-    "title": "Air Freight",
-    "description": "Fast and customized air freight solutions to meet your deadlines and optimize your supply chain."
+    "icon": "flaticon-delivery-truck",
+    "title": "INTERNATIONAL ROAD TRANSPORT (TIR)",
+    "description": "Efficient and flexible international road transport services ensuring optimal delivery worldwide."
   },
   {
     "id": 3,
-    "icon": "flaticon-airplane",
-    "title": "Customs Transit",
-    "description": "Complete management of administrative and customs formalities for smooth import and export operations."
+    "icon": "flaticon-cruise-ship",
+    "title": "SEA FREIGHT (FCL)",
+    "description": "Cost-effective and secure sea freight services for full container shipments on an international scale."
   },
   {
     "id": 4,
-    "icon": "flaticon-truck",
-    "title": "Land Transport",
-    "description": "Efficient and secure road freight services ensuring fast delivery across national and international routes."
+    "icon": "flaticon-container",
+    "title": "MARITIME GROUPAGE (LCL)",
+    "description": "A shared freight solution that reduces costs while ensuring reliable maritime transport."
+  },
+  {
+    "id": 5,
+    "icon": "flaticon-custom-clearance",
+    "title": "CUSTOMS & INTERNATIONAL TRANSIT",
+    "description": "Simplified and efficient management of your customs and transit formalities for smooth import-export operations."
   }
 ]

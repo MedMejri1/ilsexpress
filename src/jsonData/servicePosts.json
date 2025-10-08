@@ -4,17 +4,17 @@
     "serviceId": 1,
     "title": "Air Freight",
     "paragraphs": [
-      "ILS EXPRESS offers fast and customized air transport solutions designed to meet strict deadlines and ensure supply chain efficiency. Our team of specialists provides tailor-made services for every destination."
+      "ILS EXPRESS offers fast, secure, and reliable air shipping solutions for your deliveries to destinations around the world. Our air freight services are designed to meet tight deadlines while ensuring optimal supply chain performance."
     ],
     "imageSrc": "/assets/img/service-air.jpg",
     "sections": [
       {
         "title": "Overview of Services",
-        "content": "At ILS EXPRESS, we provide reliable and fast international air freight solutions. From urgent deliveries to specialized cargo, we ensure flexibility and efficiency across all operations."
+        "content": "We provide tailored international air freight solutions for urgent or specialized shipments, with maximum flexibility and reliability."
       },
       {
         "title": "Service Key Features",
-        "content": "ILS EXPRESS offers dedicated air freight specialists, global reach, compliance with international standards, and creative solutions tailored to client needs."
+        "content": "Dedicated air freight experts, global network, strict compliance with international standards, and customized solutions for each client."
       }
     ],
     "FrequentlyQuestion": {
@@ -25,159 +25,203 @@
       {
         "id": 1,
         "title": "Fast Delivery",
-        "description": "ILS EXPRESS ensures your goods reach their destination quickly and securely."
+        "description": "Priority handling to ensure your shipments arrive on time."
       },
       {
         "id": 2,
         "title": "Customized Solutions",
-        "description": "Tailor-made logistics plans adapted to your deadlines and cargo type."
+        "description": "Air freight plans tailored to your cargo and deadlines."
       },
       {
         "id": 3,
-        "title": "Global Expertise",
-        "description": "Strong partnerships with certified agents worldwide through ILS EXPRESS."
+        "title": "Global Reach",
+        "description": "Worldwide delivery through trusted partners."
       },
       {
         "id": 4,
         "title": "Dedicated Support",
-        "description": "Expert guidance and monitoring for every shipment with ILS EXPRESS."
+        "description": "Expert assistance and real-time shipment tracking."
       }
     ]
   },
   {
     "id": 2,
     "serviceId": 2,
-    "title": "Sea Freight",
+    "title": "International Road Transport (TIR)",
     "paragraphs": [
-      "ILS EXPRESS provides reliable and efficient sea freight services, including full container loads (FCL), less-than-container loads (LCL), groupage, and chartering. We manage all types of cargo from standard to specialized."
+      "ILS EXPRESS provides efficient and flexible international road transport services, ensuring optimal delivery worldwide through an extensive and secure network."
     ],
-    "imageSrc": "/assets/img/service-sea.jpg",
+    "imageSrc": "/assets/img/service-road.jpg",
     "sections": [
       {
         "title": "Overview of Services",
-        "content": "ILS EXPRESS delivers international sea transport solutions supported by a global network of certified agents and warehouses."
+        "content": "We offer national and cross-border road transport solutions, covering a wide logistics network to ensure smooth and punctual deliveries."
       },
       {
         "title": "Service Key Features",
-        "content": "Our sea freight services include Door-to-Door delivery, groupage, customs clearance, and handling of dangerous or perishable goods."
+        "content": "International coverage, express transport, temperature-controlled vehicles, and flexible logistics options."
       }
     ],
     "FrequentlyQuestion": {
       "title": "Frequently Asked Question",
-      "content": "Does ILS EXPRESS handle dangerous or perishable goods? Yes, our team is fully trained and certified to manage specialized cargo safely."
+      "content": "Can ILS EXPRESS handle cross-border road transport? Yes, our extensive network allows us to manage shipments throughout Europe and beyond."
     },
     "features": [
       {
         "id": 1,
-        "title": "Door-to-Door Service",
-        "description": "ILS EXPRESS manages your cargo from origin to final delivery point."
+        "title": "Reliable Transport",
+        "description": "Fast and secure road deliveries across multiple countries."
       },
       {
         "id": 2,
-        "title": "Special Cargo Handling",
-        "description": "Expertise in dangerous, perishable, and agri-food products."
+        "title": "Wide Coverage",
+        "description": "Extensive TIR network for international delivery."
       },
       {
         "id": 3,
-        "title": "Global Network",
-        "description": "ILS EXPRESS ensures worldwide reach through reliable agents and certified warehouses."
+        "title": "Real-Time Tracking",
+        "description": "Full visibility from pickup to delivery."
       },
       {
         "id": 4,
         "title": "Flexible Solutions",
-        "description": "Options for FCL, LCL, Ro-Ro, and conventional cargo with ILS EXPRESS."
+        "description": "Adaptable services for different cargo types."
       }
     ]
   },
   {
     "id": 3,
     "serviceId": 3,
-    "title": "Customs Transit",
+    "title": "Sea Freight (FCL)",
     "paragraphs": [
-      "ILS EXPRESS provides complete customs and administrative management for import and export operations. We ensure compliance and smooth clearance for all shipments."
+      "ILS EXPRESS offers cost-effective and secure sea freight services for full container shipments (FCL), ensuring reliable international delivery."
     ],
-    "imageSrc": "/assets/img/service-cu.jpg",
+    "imageSrc": "/assets/img/service-sea.jpg",
     "sections": [
       {
         "title": "Overview of Services",
-        "content": "ILS EXPRESS handles everything from documentation to customs clearance, providing full support for international trade operations."
+        "content": "We manage end-to-end international sea transport with dedicated FCL solutions supported by a global network of certified agents and warehouses."
       },
       {
         "title": "Service Key Features",
-        "content": "Our customs experts assist with import/export procedures, optimize transit solutions, and ensure compliance with all regulatory standards."
+        "content": "Door-to-Door service, customs clearance, and expert handling of specialized cargo."
       }
     ],
     "FrequentlyQuestion": {
       "title": "Frequently Asked Question",
-      "content": "How does ILS EXPRESS simplify customs clearance? Our experts manage all documentation and liaise directly with customs authorities."
+      "content": "Does ILS EXPRESS handle dangerous or perishable goods? Yes, our team is trained and certified to manage specialized cargo safely."
     },
     "features": [
       {
         "id": 1,
-        "title": "Customs Expertise",
-        "description": "ILS EXPRESS ensures compliance with all regulatory and administrative requirements."
+        "title": "Door-to-Door Service",
+        "description": "Complete management from departure to final delivery."
       },
       {
         "id": 2,
-        "title": "End-to-End Support",
-        "description": "From import/export documentation to final clearance with ILS EXPRESS."
+        "title": "Special Cargo Handling",
+        "description": "Expertise in dangerous, perishable, and sensitive goods."
       },
       {
         "id": 3,
-        "title": "Optimized Transit",
-        "description": "Efficient solutions for FCL, LTL, Ro-Ro, and heavy cargo provided by ILS EXPRESS."
+        "title": "Global Network",
+        "description": "Reliable connections with certified agents worldwide."
       },
       {
         "id": 4,
-        "title": "Seamless Operations",
-        "description": "Smooth customs procedures to avoid delays and reduce costs with ILS EXPRESS."
+        "title": "Cost-Effective",
+        "description": "Optimized sea freight solutions for full containers."
       }
     ]
   },
   {
-  "id": 4,
-  "serviceId": 4,
-  "title": "Land Transport",
-  "paragraphs": [
-    "ILS EXPRESS provides reliable national and international road freight solutions. We ensure safe, secure, and on-time delivery through optimized routes and a modern fleet."
-  ],
-  "imageSrc": "/assets/img/service-land.jpg",
-  "sections": [
-    {
-      "title": "Overview of Services",
-      "content": "Our land transport service covers both domestic and cross-border shipments, offering flexible solutions including full truckload (FTL), less than truckload (LTL), and express deliveries."
+    "id": 4,
+    "serviceId": 4,
+    "title": "Maritime Groupage (LCL)",
+    "paragraphs": [
+      "ILS EXPRESS provides shared sea freight (LCL) solutions to optimize shipping costs while ensuring reliable and efficient maritime transport."
+    ],
+    "imageSrc": "/assets/img/service-groupage.jpg",
+    "sections": [
+      {
+        "title": "Overview of Services",
+        "content": "Our LCL services allow multiple shipments to be consolidated in one container, reducing costs and maintaining reliable transit times."
+      },
+      {
+        "title": "Service Key Features",
+        "content": "Regular departures, flexible scheduling, optimized space, and real-time tracking of shipments."
+      }
+    ],
+    "FrequentlyQuestion": {
+      "title": "Frequently Asked Question",
+      "content": "How does groupage reduce shipping costs? By consolidating shipments, you only pay for the space you use."
     },
-    {
-      "title": "Service Key Features",
-      "content": "We deliver cost-effective, safe, and fast national and international road transport solutions, supported by real-time tracking, experienced drivers, and a strong logistics network."
-    }
-  ],
-  "FrequentlyQuestion": {
-    "title": "Frequently Asked Question",
-    "content": "Does ILS EXPRESS provide both national and international land transport? Yes, we handle domestic deliveries as well as cross-border operations with full logistics support."
+    "features": [
+      {
+        "id": 1,
+        "title": "Cost Optimization",
+        "description": "Pay only for the space you need in shared containers."
+      },
+      {
+        "id": 2,
+        "title": "Regular Departures",
+        "description": "Scheduled LCL shipments for reliable delivery."
+      },
+      {
+        "id": 3,
+        "title": "Real-Time Tracking",
+        "description": "Full visibility of your consolidated shipment."
+      },
+      {
+        "id": 4,
+        "title": "Flexible Solutions",
+        "description": "Adapted to different volumes and destinations."
+      }
+    ]
   },
-  "features": [
-    {
-      "id": 1,
-      "title": "National & International Coverage",
-      "description": "Extensive logistics network ensuring smooth deliveries across borders and within the country."
+  {
+    "id": 5,
+    "serviceId": 5,
+    "title": "Customs & International Transit",
+    "paragraphs": [
+      "ILS EXPRESS simplifies and optimizes your customs and transit formalities for smooth and compliant import-export operations."
+    ],
+    "imageSrc": "/assets/img/service-customs.jpg",
+    "sections": [
+      {
+        "title": "Overview of Services",
+        "content": "Our customs experts handle all administrative procedures, ensuring fast clearance and compliance with international regulations."
+      },
+      {
+        "title": "Service Key Features",
+        "content": "Expert agents, rapid processing, document preparation, and transparent communication."
+      }
+    ],
+    "FrequentlyQuestion": {
+      "title": "Frequently Asked Question",
+      "content": "How does ILS EXPRESS help with customs clearance? Our team prepares and submits all required documents to avoid delays."
     },
-    {
-      "id": 2,
-      "title": "Flexible Solutions",
-      "description": "Tailored options for FTL, LTL, express, and specialized cargo transport."
-    },
-    {
-      "id": 3,
-      "title": "On-Time Delivery",
-      "description": "Optimized scheduling and planning to guarantee punctual transport services."
-    },
-    {
-      "id": 4,
-      "title": "Real-Time Tracking",
-      "description": "GPS tracking and live updates to keep you informed at every stage."
-    }
-  ]
-}
-
+    "features": [
+      {
+        "id": 1,
+        "title": "Quick Clearance",
+        "description": "Efficient handling of customs procedures."
+      },
+      {
+        "id": 2,
+        "title": "Expert Guidance",
+        "description": "Professional support to navigate complex regulations."
+      },
+      {
+        "id": 3,
+        "title": "Regulatory Compliance",
+        "description": "Strict adherence to local and international laws."
+      },
+      {
+        "id": 4,
+        "title": "Transparent Process",
+        "description": "Clear communication and tracking at every step."
+      }
+    ]
+  }
 ]

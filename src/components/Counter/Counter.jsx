@@ -60,68 +60,73 @@ const Counter = ({ style }) => {
             <div className="col-lg-3 col-md-6">
               <div className="cs-counter-item">
                 <div className="cs-count-text">
+                  <span className="cs-text-style-h2">+</span>
                   <span
                     ref={(el) => (countIdRef.current[0] = el)}
                     className="amin_auto_count cs-text-style-h2"
-                    data-target="348"
+                    data-target="7"
                   >
                     0
                   </span>
-                  <span className="cs-text-style-h2">K</span>
+                  
                 </div>
                 <div className="cs-counter-title">
-                  <p>Service Provided Monthly</p>
+                  <p>Years of Experience</p>
                 </div>
               </div>
             </div>
             <div className="col-lg-3 col-md-6">
               <div className="cs-counter-item">
+                
                 <div className="cs-count-text">
+                  <span className="cs-text-style-h2">+</span>
                   <span
                     ref={(el) => (countIdRef.current[1] = el)}
                     className="amin_auto_count cs-text-style-h2"
-                    data-target="499"
+                    data-target="1999"
                   >
                     0
                   </span>
-                  <span className="cs-text-style-h2">K</span>
+                  
                 </div>
                 <div className="cs-counter-title">
-                  <p>Deliveries Completed</p>
+                  <p>Agents Worldwide</p>
                 </div>
               </div>
             </div>
             <div className="col-lg-3 col-md-6">
               <div className="cs-counter-item">
                 <div className="cs-count-text">
+                     <span className="cs-text-style-h2">+</span>
                   <span
                     ref={(el) => (countIdRef.current[2] = el)}
                     className="amin_auto_count cs-text-style-h2"
-                    data-target="150"
+                    data-target="30500"
                   >
                     0
                   </span>
-                  <span className="cs-text-style-h2">+</span>
+               
                 </div>
                 <div className="cs-counter-title">
-                  <p>Global Partners</p>
+                  <p>Tons Transported Annually</p>
                 </div>
               </div>
             </div>
             <div className="col-lg-3 col-md-6">
               <div className="cs-counter-item">
                 <div className="cs-count-text">
+                  <span className="cs-text-style-h2">+</span>
                   <span
                     ref={(el) => (countIdRef.current[3] = el)}
                     className="amin_auto_count cs-text-style-h2"
-                    data-target="100"
+                    data-target="2598"
                   >
                     0
                   </span>
-                  <span className="cs-text-style-h2">%</span>
+                  
                 </div>
                 <div className="cs-counter-title">
-                  <p>On-Time Delivery Rate</p>
+                  <p>Operations Per Year</p>
                 </div>
               </div>
             </div>

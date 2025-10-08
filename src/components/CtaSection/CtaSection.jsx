@@ -4,7 +4,7 @@ import classNames from "classnames";
 import ParallaxBackground from "@/components/DynamicBackground/ParallaxBackground";
 import TitleAnimation from "@/components/SectionTitle/TitleAnimation";
 
-const CtaSection = ({ style, bg = null }) => {
+const  CtaSection = ({ style, bg = null }) => {
   const csCtaCont = classNames({
     "cs-cta-center-in": style !== "style2" || style == null,
     "cs-cta-hor-in": style === "style2",

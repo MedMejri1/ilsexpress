@@ -1,40 +1,40 @@
 import React from "react";
 import classNames from "classnames";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faPlane,
+  faTruck,
+  faShip,
+  faBoxesStacked,
+  faFileInvoice,
+  faEye,
+  faBullseye,
+  faHandshake,
+} from "@fortawesome/free-solid-svg-icons";
 
 const services = [
   {
-    id: 1,
-    icon: "flaticon-cargo-ship",
-    title: "Sea Freight",
+    id: 15565671,
+    icon: faEye,
+    title: "Notre Vision",
     description:
-      "Reliable and efficient international sea transport: including groupage, chartering, and customs clearance.",
+      "Devenir un leader incontournable de la logistique multimodale en intégrant des technologies innovantes et des solutions durables, afin de répondre efficacement aux exigences d’un marché mondial en constante mutation.",
   },
   {
-    id: 2,
-    icon: "flaticon-airplane",
-    title: "Air Freight",
+    id: 13055474,
+    icon: faBullseye,
+    title: "Notre Mission",
     description:
-      "Fast and customized air freight solutions to meet your deadlines and optimize your supply chain.",
+      "Proposer des solutions logistiques globales, responsables et agiles, alliant performance, rapidité et respect des normes environnementales, pour accompagner durablement nos partenaires dans leurs ambitions.",
   },
   {
-    id: 3,
-    icon: "flaticon-customs",
-    title: "Customs Transit",
+    id: 8212456,
+    icon: faHandshake,
+    title: "Nos Valeurs",
     description:
-      "Complete management of administrative and customs formalities for your import/export operations.",
-  },
-  {
-    id: 4,
-    icon: "flaticon-truck",
-    title: "Land Transport",
-    description:
-      "Efficient and secure road freight services ensuring fast delivery across national and international routes.",
-  },
+      "Excellence, écoute, innovation, engagement humain et durabilité : ces piliers structurent notre culture d’entreprise et nourrissent une collaboration solide avec nos partenaires.",
+  }
 ];
-
-
-
-
 
 
 const ExpertiseSection = ({ style }) => {
@@ -42,6 +42,7 @@ const ExpertiseSection = ({ style }) => {
     "expert-area-no-bg": style === "style2",
     "expert-full-zig": style === "style3",
   });
+
   return (
     <section>
       <div className="cs-section-height"></div>
@@ -54,8 +55,7 @@ const ExpertiseSection = ({ style }) => {
                   <div className="cs-exp-icon-title">
                     <div className="cs-exp-icon svg-left-to-right-animation-wrap">
                       <span className="svg-left-to-right-animation">
-                        <i className={service.icon}></i>
-                        <i className={service.icon}></i>
+                        <FontAwesomeIcon icon={service.icon} size="1x" />
                       </span>
                     </div>
                     <div className="cs-exp-title">
