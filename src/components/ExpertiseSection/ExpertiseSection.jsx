@@ -16,25 +16,26 @@ const services = [
   {
     id: 15565671,
     icon: faEye,
-    title: "Notre Vision",
+    title: "Our Vision",
     description:
-      "Devenir un leader incontournable de la logistique multimodale en intégrant des technologies innovantes et des solutions durables, afin de répondre efficacement aux exigences d’un marché mondial en constante mutation.",
+      "To become an essential leader in multimodal logistics by integrating innovative technologies and sustainable solutions, in order to effectively meet the demands of a constantly evolving global market.",
   },
   {
     id: 13055474,
     icon: faBullseye,
-    title: "Notre Mission",
+    title: "Our Mission",
     description:
-      "Proposer des solutions logistiques globales, responsables et agiles, alliant performance, rapidité et respect des normes environnementales, pour accompagner durablement nos partenaires dans leurs ambitions.",
+      "To provide global, responsible, and agile logistics solutions that combine performance, speed, and environmental standards compliance, supporting our partners’ ambitions in a sustainable way.",
   },
   {
     id: 8212456,
     icon: faHandshake,
-    title: "Nos Valeurs",
+    title: "Our Values",
     description:
-      "Excellence, écoute, innovation, engagement humain et durabilité : ces piliers structurent notre culture d’entreprise et nourrissent une collaboration solide avec nos partenaires.",
-  }
+      "Excellence, listening, innovation, human commitment, and sustainability: these pillars shape our corporate culture and foster strong collaboration with our partners.",
+  },
 ];
+
 
 
 const ExpertiseSection = ({ style }) => {
