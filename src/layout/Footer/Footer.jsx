@@ -46,7 +46,7 @@ const Footer = () => {
         <div className="container">
           <CopyArea
             logoAlt="ilsExpress"
-            brandText="ilsExpress – Moving the World Forward."
+            brandText="Developed By Nolyss Digital"
             copyrightText="All Rights Reserved."
             companyName="ils Express"
           />

@@ -9,7 +9,7 @@ const HeaderEmailPhone = () => {
           <Link to="mailto:administration@ilsexpress.tn">administration@ilsexpress.tn</Link>
         </div>
       </div>
-      <Link to="#" className="cs-header-phone">
+      <Link to="telto:+21653448408" className="cs-header-phone">
         <div className="cs-header-phone-content">
           <div className="cs-header-phone-in">
             <div className="cs-header-phone-icon">
