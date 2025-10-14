@@ -11,7 +11,7 @@ const ServiceDetails = () => {
     <>
       <BreadCrumb title={"Services Details"} />
       <ServiceDetailsContent servicesId={servicesId} />
-      <ClientAreaAbout />
+      {/* <ClientAreaAbout /> */}
       <CtaSection type="style3" />
     </>
   );

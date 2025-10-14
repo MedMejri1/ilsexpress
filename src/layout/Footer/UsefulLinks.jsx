@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const linksData = [
   { path: "/about", label: "About Us" },
-  { path: "/contact", label: "Contact Us" },
+  { path: "/contact-us", label: "Contact Us" },
   { path: "/services", label: "Our Service" },
 
 ];

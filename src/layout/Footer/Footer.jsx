@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="cs-logi-footer-content">
           <div className="container">
             <div className="row">
-              <div className="col-lg-6 col-md-6">
+              <div className="col-lg-4 col-md-6">
                 <FooterSectionTitle title="Corporate Office">
                   <ContactInfo
                     address="Immeuble Golden Towers sis au Centre Urbain Nord 1082 TUNIS."

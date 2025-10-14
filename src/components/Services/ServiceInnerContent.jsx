@@ -30,10 +30,10 @@ const ServiceInnerContent = ({ serviceDetailsData: contentData }) => {
             ))}
           </div>
         </div>
-        <h4>{contentData.FrequentlyQuestion.title}</h4>
-        <p>{contentData.FrequentlyQuestion.content}</p>
+        {/* <h4>{contentData.FrequentlyQuestion.title}</h4>
+        <p>{contentData.FrequentlyQuestion.content}</p> */}
         <div className="cs-single-content-gap"></div>
-        <ServiceFAQ />
+        {/* <ServiceFAQ /> */}
       </div>
     </div>
   );
