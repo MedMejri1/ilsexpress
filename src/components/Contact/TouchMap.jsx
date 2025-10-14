@@ -12,13 +12,13 @@ const contactData = {
       title: "Corporate Office",
       address: "Immeuble Golden Towers sis au Centre Urbain Nord 1082 TUNIS.",
       phone: "+21653448408",
-      email: "contact@ilsexpress.tn",
+      email: "administration@ilsexpress.tn",
     },
     {
       title: "Canada Office",
       address: "Immeuble Golden Towers sis au Centre Urbain Nord 1082 TUNIS.",
       phone: "+21653448408",
-      email: "contact@ilsexpress.tn",
+      email: "administration@ilsexpress.tn",
     },
   ],
 };

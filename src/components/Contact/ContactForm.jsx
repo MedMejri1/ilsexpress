@@ -1,30 +1,48 @@
-import React, { useRef } from "react";
-import { useFormStatus } from "react-dom";
+'use client';
+
+import React, { useRef, useState } from "react";
+import emailjs from "@emailjs/browser";
 import classNames from "classnames";
 
-const SubmitBtn = () => {
-  const { pending } = useFormStatus();
-  return (
-    <button type="submit" className="cs-primary-btn" disabled={pending}>
-      {pending ? "Submiting..." : "Submit"}
-      <i className="flaticon-right-arrow"></i>
-    </button>
-  );
-};
+const SubmitBtn = ({ pending }) => (
+  <button type="submit" className="cs-primary-btn" disabled={pending}>
+    {pending ? "Submitting..." : "Submit"}
+    <i className="flaticon-right-arrow"></i>
+  </button>
+);
 
 const ContactForm = ({ style }) => {
   const formContain = useRef(null);
+  const [status, setStatus] = useState("idle"); // idle | pending | sent | error
+  const [errorMsg, setErrorMsg] = useState("");
 
-  const formAction = async (formData) => {
-    const Name = formData.get("name");
-    const Email = formData.get("email");
-    const Phone = formData.get("phone");
-    const Message = formData.get("message");
+  // Your EmailJS credentials (⚠️ normally these go in .env)
+  const EMAILJS_SERVICE_ID = "service_f7tdg3n";
+  const EMAILJS_TEMPLATE_ID = "template_b5jtvhg";
+  const EMAILJS_PUBLIC_KEY = "DuqzulvW3Mm5N0CNc";
 
-    //server action this position
-    await new Promise((resolve) => setTimeout(resolve, 1000));
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+    setStatus("pending");
+    setErrorMsg("");
 
-    formContain.current.reset();
+    try {
+      await emailjs.sendForm(
+        EMAILJS_SERVICE_ID,
+        EMAILJS_TEMPLATE_ID,
+        formContain.current,
+        { publicKey: EMAILJS_PUBLIC_KEY }
+      );
+
+      setStatus("sent");
+      formContain.current?.reset();
+    } catch (err) {
+      console.error("EmailJS Error:", err);
+      setStatus("error");
+      setErrorMsg("Something went wrong. Please try again later.");
+    } finally {
+      setTimeout(() => setStatus("idle"), 4000);
+    }
   };
 
   const contactpage = classNames({
@@ -37,44 +55,58 @@ const ContactForm = ({ style }) => {
   return (
     <div className={contactpage}>
       <div className={formlight}>
-        <form action={formAction} ref={formContain}>
+        <form ref={formContain} onSubmit={handleSubmit}>
           <div className="mb-3">
             <input
               type="text"
               className="form-control"
-              placeholder="Your Name"
+              placeholder="Enter your full name"
               name="name"
               required
             />
           </div>
+
           <div className="mb-3">
             <input
               type="email"
               className="form-control"
-              placeholder="example@domain.com"
+              placeholder="Enter your email address"
               name="email"
               required
             />
           </div>
+
           <div className="mb-3">
             <input
               type="tel"
               className="form-control"
-              placeholder="+216 00 000 000"
+              placeholder="Enter your phone number"
               name="phone"
               required
             />
           </div>
+
           <div className="mb-3">
             <textarea
               className="form-control"
               rows="4"
-              placeholder="Your Message"
+              placeholder="Write your message here"
               name="message"
               required
             ></textarea>
           </div>
-          <SubmitBtn />
+
+          {/* Optional hidden field for timestamp */}
+          <input type="hidden" name="time" value={new Date().toLocaleString()} />
+
+          <SubmitBtn pending={status === "pending"} />
+
+          {status === "sent" && (
+            <p className="mt-2 text-success">✅ Message sent successfully!</p>
+          )}
+          {status === "error" && (
+            <p className="mt-2 text-danger">❌ {errorMsg}</p>
+          )}
         </form>
       </div>
     </div>

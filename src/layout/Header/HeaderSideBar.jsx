@@ -22,8 +22,8 @@ const HeaderSideBar = ({ className, ref }) => {
             <Link to="+21653448408" className="cs-text-style-h6">
               +216 53448408
             </Link>
-            <Link to="contact@ilsexpress.tn" className="cs-text-style-h6">
-              contact@ilsexpress.tn
+            <Link to="administration@ilsexpress.tn" className="cs-text-style-h6">
+              administration@ilsexpress.tn
             </Link>
           </div>
           <div className="cs-common-icon-style cs-sidebar-social">

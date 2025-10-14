@@ -38,7 +38,7 @@ const CompanyFeature = () => {
             <SectionTitle
               title={"Business Forward with Leading Company"}
               style={"style2"}
-              to="/contact"
+              to="/contact-us"
               rightLinkText="Contact Us"
             />
           </div>

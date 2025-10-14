@@ -17,7 +17,7 @@ const Footer = () => {
                   <ContactInfo
                     address="Immeuble Golden Towers sis au Centre Urbain Nord 1082 TUNIS."
                     phone="+21653448408"
-                    email="contact@ilsexpress.tn"
+                    email="administration@ilsexpress.tn"
                   />
                 </FooterSectionTitle>
               </div>
@@ -26,7 +26,7 @@ const Footer = () => {
                   <ContactInfo
                     address="Immeuble Golden Towers sis au Centre Urbain Nord 1082 TUNIS."
                     phone="+21653448408"
-                    email="contact@ilsexpress.tn"
+                    email="administration@ilsexpress.tn"
                   />
                 </FooterSectionTitle>
               </div> */}

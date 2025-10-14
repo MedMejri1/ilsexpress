@@ -18,7 +18,7 @@ const GetInTouch = () => {
           <Link to="tel:+21623159999">+216 23 159 999</Link>
         </h6>
         <h6>
-          <Link to="mailto:contact@ilsexpress.tn">contact@ilsexpress.tn</Link>
+          <Link to="mailto:administration@ilsexpress.tn">administration@ilsexpress.tn</Link>
         </h6>
       </div>
     </div>
