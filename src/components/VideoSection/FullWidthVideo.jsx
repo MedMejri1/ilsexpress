@@ -7,14 +7,14 @@ import DynamicBackground from "@/components/DynamicBackground/DynamicBackground"
 const videoData = [
   {
     type: "youtube",
-    thumbnail: "/assets/img/full-w-video-thumbnail.jpg",
-    videoUrl: "9zRL5wLHTeA", // Only the video ID is needed
+    thumbnail: "/assets/img/full-w-video-thumbnail.jpeg",
+    videoUrl: "QzfKHeCB_iU", // Only the video ID is needed
   },
- {
-    type: "youtube",
-    thumbnail: "/assets/img/full-w-video-thumbnail.jpg",
-    videoUrl: "9zRL5wLHTeA", // Only the video ID is needed
-  },
+//  {
+//     type: "youtube",
+//     thumbnail: "/assets/img/full-w-video-thumbnail.jpg",
+//     videoUrl: "9zRL5wLHTeA", // Only the video ID is needed
+//   },
   // {
   //   type: "local",
   //   videoSrc: "/assets/video/full-w-video-1.mp4",

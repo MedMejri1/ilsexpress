@@ -2,10 +2,9 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 const socialLinks = [
-  { icon: "flaticon-facebook-app-symbol", path: "#" },
-  { icon: "flaticon-linkedin-big-logo", path: "#" },
-  { icon: "flaticon-twitter", path: "#" },
-  { icon: "flaticon-instagram", path: "#" },
+  { icon: "flaticon-facebook-app-symbol", path: "https://www.facebook.com/ilsexpress" },
+  { icon: "flaticon-linkedin-big-logo", path: "https://www.linkedin.com/company/ils-express" },
+  { icon: "flaticon-instagram", path: "https://www.instagram.com/ilsexpress1/" },
 ];
 
 const Newsletter = () => {
