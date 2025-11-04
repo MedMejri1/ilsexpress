@@ -29,22 +29,17 @@ const HeaderSideBar = ({ className, ref }) => {
           <div className="cs-common-icon-style cs-sidebar-social">
             <ul>
               <li>
-                <Link to="#">
+                <Link to="https://www.facebook.com/ilsexpress">
                   <i className="flaticon-facebook-app-symbol"></i>
                 </Link>
               </li>
               <li>
-                <Link to="#">
+                <Link to="https://www.linkedin.com/company/ils-express/">
                   <i className="flaticon-linkedin-big-logo"></i>
                 </Link>
               </li>
               <li>
-                <Link to="#">
-                  <i className="flaticon-twitter"></i>
-                </Link>
-              </li>
-              <li>
-                <Link to="#">
+                <Link to="https://www.instagram.com/ilsexpress1/">
                   <i className="flaticon-instagram"></i>
                 </Link>
               </li>
