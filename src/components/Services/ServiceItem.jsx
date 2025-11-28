@@ -16,7 +16,7 @@ const ServiceItem = ({ service }) => {
           >
             <path
               d="M0.929443 69.8221L58.5489 34.9999L0.929443 0.177734V69.8221Z"
-              fill="#2F6DFB"
+              fill="#356db5"
             />
             <path
               opacity="0.4"

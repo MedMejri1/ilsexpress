@@ -18,7 +18,7 @@ const ProjectInfo = ({ clientName, category, timeline }) => {
             <g clipPath="url(#clip0_4589_11241)">
               <path
                 d="M0.216797 14.4645L11.7407 7.50008L0.216797 0.535645V14.4645Z"
-                fill="#2F6DFB"
+                fill="#356db5"
               />
               <path
                 opacity="0.4"
@@ -53,7 +53,7 @@ const ProjectInfo = ({ clientName, category, timeline }) => {
             <g clipPath="url(#clip0_4589_11241)">
               <path
                 d="M0.216797 14.4645L11.7407 7.50008L0.216797 0.535645V14.4645Z"
-                fill="#2F6DFB"
+                fill="#356db5"
               />
               <path
                 opacity="0.4"
@@ -88,7 +88,7 @@ const ProjectInfo = ({ clientName, category, timeline }) => {
             <g clipPath="url(#clip0_4589_11241)">
               <path
                 d="M0.216797 14.4645L11.7407 7.50008L0.216797 0.535645V14.4645Z"
-                fill="#2F6DFB"
+                fill="#356db5"
               />
               <path
                 opacity="0.4"

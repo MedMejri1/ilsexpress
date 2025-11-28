@@ -3,7 +3,7 @@
 ----------------------------------------------------------------*/
 @import url("https://fonts.googleapis.com/css2?family=Hedvig+Letters+Sans&family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap");
 :root {
-  --accent-color: #2F6DFB;
+  --accent-color: #356db5;
   --body-color: #4a4a4a;
   --heading-color: #0a0a0a;
   --primary-color: #101010;
@@ -11,7 +11,7 @@
   --border-color: #ececec;
   --common-color-white: #ffffff;
   --common-color-black: #000000;
-  --dark-bg: #262626
+  --dark-bg: #1c1e3c
 
 
 ;
@@ -37,7 +37,7 @@
 
 .cs_accent_color,
 .cs_accent_color_hover:hover {
-  color: #2F6DFB;
+  color: #356db5;
 }
 
 .cs_white_bg {
@@ -159,7 +159,7 @@
 
 .cs_accent_bg,
 .cs_accent_bg_hover:hover {
-  background-color: #2F6DFB;
+  background-color: #356db5;
 }
 
 .cs_primary_bg,
@@ -368,7 +368,7 @@ button {
 
 a:hover {
   text-decoration: none;
-  color: #2F6DFB;
+  color: #356db5;
 }
 
 table {
@@ -512,7 +512,7 @@ textarea {
   background-color: #fff;
 }
 .cs_scrollup:hover {
-  background-color: #2F6DFB;
+  background-color: #356db5;
   color: #fff;
 }
 .cs_scrollup i {
@@ -576,7 +576,7 @@ textarea {
     margin-top: 16.5px;
     display: flex;
     align-items: center;
-    background: #2F6DFB;
+    background: #356db5;
     border-radius: 100px;
     padding: 12px 20px;
   }
@@ -640,7 +640,7 @@ textarea {
     transition: all 0.4s ease;
   }
   .cs_site_header.header-no-bg .cs_nav .cs_nav_list > li.menu-item-has-children:hover > a::after {
-    background: #2F6DFB;
+    background: #356db5;
     transition: all 0.4s ease;
   }
   .cs_site_header.header-no-bg .menu-item-has-children a ::after {
@@ -655,7 +655,7 @@ textarea {
             backdrop-filter: blur(50px);
   }
   .cs_site_header.header-no-bg.cs_gescout_show .cs-header-emai-phone {
-    background: #262626
+    background: #1c1e3c
 
 
 ;
@@ -715,7 +715,7 @@ textarea {
     margin-right: 0px !important;
   }
   .cs_site_header.cs_style1 .cs_main_header_right .cs-header-additional-item:hover a {
-    color: #2F6DFB;
+    color: #356db5;
     transition: all 0.4s ease;
   }
   .cs-header-emai-phone {
@@ -748,7 +748,7 @@ textarea {
   transition: all 0.3s ease;
 }
 .cs_site_header.cs_style1 .cs_main_header_right .cs-header-additional-item a:hover {
-  color: #2F6DFB;
+  color: #356db5;
   transition: all 0.3s ease;
 }
 .cs_site_header.cs_style1 .cs_main_header_right .cs_toolbox {
@@ -940,7 +940,7 @@ textarea {
   transform: rotate(45deg);
 }
 .cs_close:hover {
-  color: #2F6DFB;
+  color: #356db5;
   transform: scale(1.05);
 }
 
@@ -1293,7 +1293,7 @@ textarea {
   height: 17px;
 }
 .cs_side_header_in .cs-sidebar-middle-area .cs-sidebar-social a:hover svg path {
-  fill: #2F6DFB;
+  fill: #356db5;
   transition: all 0.5s ease-in-out;
 }
 .cs_side_header_in .cs-sidebar-middle-area p {
@@ -1599,7 +1599,7 @@ footer h6 {
   color: #fff;
 }
 footer .cs-logi-footer-container {
-  background: #262626
+  background: #1c1e3c
 
 
 ;
@@ -2459,7 +2459,7 @@ label {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #262626
+  background: #1c1e3c
 
 
 ;
@@ -2469,7 +2469,7 @@ label {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #2F6DFB;
+  background: #356db5;
   -webkit-transition: all 0.4s ease;
   transition: all 0.4s ease;
 }
@@ -2712,14 +2712,14 @@ label {
   padding: 5px;
   cursor: pointer;
   border-radius: 0;
-  background-color: #2F6DFB;
+  background-color: #356db5;
 }
 
 /*--------------------------------------------------------------
   12. Button Style
 ----------------------------------------------------------------*/
 button {
-  background-color: #2F6DFB;
+  background-color: #356db5;
   color: #fff;
   cursor: pointer;
   transition: all 0.3s;
@@ -2739,7 +2739,7 @@ button i {
   gap: 5px;
 }
 .cs-text_b_line i {
-  color: #2F6DFB;
+  color: #356db5;
   line-height: 0px;
 }
 
@@ -2779,7 +2779,7 @@ button i {
 }
 
 .cs-primary-btn {
-  background-color: #2F6DFB;
+  background-color: #356db5;
   cursor: pointer;
   transition: all 0.3s;
   font-size: 16px;
@@ -2857,7 +2857,7 @@ button i {
   color: #0a0a0a;
 }
 .cs-primary-btn.white-primary-btn:hover {
-  background: #2F6DFB;
+  background: #356db5;
   color: #fff;
   transition: all 0.4s ease;
 }
@@ -2875,7 +2875,7 @@ button i {
   color: #0a0a0a;
 }
 .cs-primary-btn.gray-primary-btn:hover {
-  background: #2F6DFB;
+  background: #356db5;
   transition: all 0.4s ease;
 }
 .cs-primary-btn.gray-primary-btn:hover i {
@@ -2920,7 +2920,7 @@ button i {
 }
 .cs-widget-download .cs-download-card-in .cs-download-icon i {
   font-size: 32px;
-  color: #2F6DFB;
+  color: #356db5;
 }
 .cs-widget-download .cs-download-card-in .cs-download-text {
   padding-left: 15px;
@@ -2965,7 +2965,7 @@ button i {
   gap: 10px;
 }
 .cs-widget-item .cs-widget-title i {
-  color: #2F6DFB;
+  color: #356db5;
   font-size: 22px;
   line-height: 0px;
 }
@@ -2998,7 +2998,7 @@ button i {
   transition: border-color 0.3s ease;
 }
 .cs-search-widget .cs-search-content input:focus, .cs-search-widget .cs-search-content input:active, .cs-search-widget .cs-search-content input:focus-visible, .cs-search-widget .cs-search-content input:focus-within {
-  border: 1px solid #2F6DFB;
+  border: 1px solid #356db5;
   outline: none;
 }
 .cs-search-widget .cs-search-content .cs-icon-search {
@@ -3009,7 +3009,7 @@ button i {
 }
 .cs-search-widget .cs-search-content .cs-icon-search i {
   font-size: 28px;
-  color: #2F6DFB;
+  color: #356db5;
 }
 
 .cs-tag-items-wrap ul {
@@ -3029,9 +3029,9 @@ button i {
   font-size: 16px;
 }
 .cs-tag-items-wrap ul li:hover {
-  background: #2F6DFB;
+  background: #356db5;
   transition: all 0.4s ease;
-  border: 1px solid #2F6DFB;
+  border: 1px solid #356db5;
 }
 .cs-tag-items-wrap ul li:hover a {
   color: #fff;
@@ -3224,7 +3224,7 @@ button i {
 .cs-hero-slider-wrap.cs-hero-ocean-cargo .cs-hero-slider-arrow i {
   font-size: 60px;
   color: rgba(255, 255, 255, 0.5);
-  -webkit-text-stroke: 2.5px #262626
+  -webkit-text-stroke: 2.5px #1c1e3c
 
 
 ;
@@ -3463,7 +3463,7 @@ button i {
 }
 .cs-expertise-wrap .cs-expert-area-item .cs-exp-icon-title .cs-exp-icon {
   margin-right: 30px;
-  color: #2F6DFB;
+  color: #356db5;
   font-size: 80px;
 }
 .cs-expertise-wrap .cs-expert-area-item .cs-exp-icon-title .cs-exp-title {
@@ -3504,7 +3504,7 @@ button i {
   max-height: 100%;
 }
 .cs-expertise-wrap.expert-full-zig {
-  background: #262626
+  background: #1c1e3c
 
 
 ;
@@ -3733,7 +3733,7 @@ button i {
 }
 .cs-about-list-wrap ul li i {
   margin-right: 10px;
-  color: #2F6DFB;
+  color: #356db5;
 }
 
 .two-column-grid {
@@ -3854,7 +3854,7 @@ button i {
   18. Services Style
 ----------------------------------------------------------------*/
 .cs-service-sec-wrapper {
-  background: #262626
+  background: #1c1e3c
 
 
 ;
@@ -4152,7 +4152,7 @@ button i {
   -webkit-clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
           clip-path: polygon(75% 0%, 100% 50%, 75% 100%, 0% 100%, 25% 50%, 0% 0%);
   overflow: hidden;
-  background-color: #2F6DFB;
+  background-color: #356db5;
   transition: all 0.5s;
   z-index: 11;
 }
@@ -4323,7 +4323,7 @@ button i {
 }
 .cs-team-wrapper .cs-members-container .cs-member-item .cs-social-contact ul li a {
   padding: 15px 15px 8px 15px;
-  background: #2F6DFB;
+  background: #356db5;
   display: inline-block;
 }
 .cs-team-wrapper .cs-members-container .cs-member-item .cs-social-contact ul li a i {
@@ -4416,7 +4416,7 @@ button i {
   position: relative;
   height: 400px;
   transition: background-position 0.9s ease-out;
-  background-color: #262626
+  background-color: #1c1e3c
 
 
 ;
@@ -4607,7 +4607,7 @@ button i {
 }
 .cs-testi-wrap .cs-testi-arrow .cs-testi-right:hover,
 .cs-testi-wrap .cs-testi-arrow .cs-testi-left:hover {
-  background: #2F6DFB;
+  background: #356db5;
   transition: all 0.4s ease;
 }
 .cs-testi-wrap .cs-testi-arrow .cs-testi-right:hover i,
@@ -4775,7 +4775,7 @@ button i {
   flex-shrink: 0;
   -webkit-clip-path: polygon(100% 0, 0 100%, 100% 100%);
           clip-path: polygon(100% 0, 0 100%, 100% 100%);
-  background-color: #262626
+  background-color: #1c1e3c
 
 
 ;
@@ -4938,7 +4938,7 @@ button i {
 
 .cs-quote-card-wrap {
   background: #ececec;
-  border-left: 2px solid #2F6DFB;
+  border-left: 2px solid #356db5;
 }
 .cs-quote-card-wrap .cs-quote-in {
   position: relative;
@@ -4949,7 +4949,7 @@ button i {
   left: 30px;
   font-size: 90px;
   opacity: 0.05;
-  color: #262626
+  color: #1c1e3c
 
 
 ;
@@ -4966,7 +4966,7 @@ button i {
   line-height: 150%;
 }
 .cs-quote-card-wrap.cs-quote-dark {
-  background: #262626
+  background: #1c1e3c
 
 
 ;
@@ -5094,7 +5094,7 @@ button i {
   padding-top: 0px;
 }
 .cs-social-common.cs-blog-share ul li {
-  border: 1px solid #262626
+  border: 1px solid #1c1e3c
 
 
 ;
@@ -5182,7 +5182,7 @@ button i {
 }
 .cs_accordian.light-border-accordian .cs_accordian_header.active {
   background-color: #fff !important;
-  border-bottom: 1px solid #2F6DFB !important;
+  border-bottom: 1px solid #356db5 !important;
   color: #0a0a0a !important;
 }
 .cs_accordian.light-border-accordian .cs_accordian_header.active i {
@@ -5193,7 +5193,7 @@ button i {
 }
 
 .cs_accordian_header.active {
-  background-color: #262626
+  background-color: #1c1e3c
 
 
  !important;
@@ -5226,7 +5226,7 @@ button i {
 }
 
 .cs-left-navigation-wrap {
-  background: #262626
+  background: #1c1e3c
 
 
 ;
@@ -5347,11 +5347,11 @@ button i {
   transition: all 0.3s ease;
 }
 .cs-text-moving-wrap .cs_text-moving h2:hover {
-  color: #2F6DFB;
+  color: #356db5;
   transition: all 0.3s ease;
 }
 .cs-text-moving-wrap.cs-moving-text-with-bg {
-  background: #2F6DFB;
+  background: #356db5;
   padding: 20px 0px;
 }
 .cs-text-moving-wrap.cs-moving-text-with-bg h2 {
@@ -5424,28 +5424,28 @@ button i {
   color: #fff;
   opacity: 0.2;
   transition: all 0.4s ease;
-  text-shadow: -1px -1px 0 #262626
+  text-shadow: -1px -1px 0 #1c1e3c
 
 
-, 0px -1px 0 #262626
+, 0px -1px 0 #1c1e3c
 
 
-, 1px -1px 0 #262626
+, 1px -1px 0 #1c1e3c
 
 
-, 1px 0px 0 #262626
+, 1px 0px 0 #1c1e3c
 
 
-, 1px 1px 0 #262626
+, 1px 1px 0 #1c1e3c
 
 
-, 0px 1px 0 #262626
+, 0px 1px 0 #1c1e3c
 
 
-, -1px 1px 0 #262626
+, -1px 1px 0 #1c1e3c
 
 
-, -1px 0 0 #262626
+, -1px 0 0 #1c1e3c
 
 
 ;
@@ -5491,9 +5491,9 @@ button i {
   color: #0a0a0a;
 }
 .cs-com-feature-wrapper.cs-feature-for-ocean-cargo .cs-img-with-video .cs-video-img .cs_round_btn:hover {
-  background: #2F6DFB;
+  background: #356db5;
   color: #fff;
-  border: 1px solid #2F6DFB;
+  border: 1px solid #356db5;
 }
 .cs-com-feature-wrapper.cs-feature-for-ocean-cargo .cs-img-with-video .cs-oc-cargo-wcu-img {
   margin-left: 10px;
@@ -5630,7 +5630,7 @@ button i {
   margin-top: -205px;
 }
 .cs-quote-process-wrap .cs-quote-form-container .quote-form-content-in {
-  background: #262626
+  background: #1c1e3c
 
 
 ;
@@ -5683,7 +5683,7 @@ button i {
   width: 100%;
 }
 .cs-form-select option {
-  background-color: #262626
+  background-color: #1c1e3c
 
 
 ;
@@ -5781,7 +5781,7 @@ button i {
   display: flex;
 }
 .cs-blog-section-wrapper.blog-style-1 .cs-blog-content-container .cs-blog-items-container .cs-blog-item .cs-blog-meta .cs-blog-date {
-  background: #2F6DFB;
+  background: #356db5;
   padding: 5px 10px;
   margin-right: 15px;
   color: #fff;
@@ -5790,7 +5790,7 @@ button i {
   margin: 0px;
 }
 .cs-blog-section-wrapper.blog-style-1 .cs-blog-content-container .cs-blog-items-container .cs-blog-item .cs-blog-meta .cs-blog-author-meta {
-  background: #2F6DFB;
+  background: #356db5;
   padding: 5px 10px;
   color: #fff;
 }
@@ -5804,11 +5804,11 @@ button i {
   transition: all 0.3s ease;
 }
 .cs-blog-section-wrapper.blog-style-1 .cs-blog-content-container .cs-blog-items-container .cs-blog-item .cs-blog-content .cs-blog-title a:hover h6 {
-  color: #2F6DFB;
+  color: #356db5;
   transition: all 0.3s ease;
 }
 .cs-blog-section-wrapper.blog-style-1 .cs-blog-content-container .cs-blog-items-container .cs-blog-item .cs-blog-content .cs-blog-title:hover h4 {
-  color: #2F6DFB;
+  color: #356db5;
   transition: all 300ms ease-in-out;
 }
 .cs-blog-section-wrapper.blog-style-1 .cs-blog-content-container .cs-blog-items-container .cs-blog-item .cs-blog-content .cs-blog-excerpt-text {
@@ -5919,7 +5919,7 @@ button i {
   width: 40px;
   animation: button-pulse 7s ease-in-out infinite;
   cursor: pointer;
-  border: 1px solid #2F6DFB;
+  border: 1px solid #356db5;
   border-radius: 100%;
 }
 .hotspot-button:after {
@@ -5927,13 +5927,13 @@ button i {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: #2F6DFB;
-  border: 5px solid #2F6DFB;
+  background: #356db5;
+  border: 5px solid #356db5;
   opacity: 0.7;
   border-radius: 100%;
   content: "";
   display: block;
-  background-color: #2F6DFB;
+  background-color: #356db5;
   transition: border-color 1s linear;
 }
 .hotspot-label {
@@ -5942,7 +5942,7 @@ button i {
   position: absolute;
   width: 350px;
   height: 130px;
-  background: #262626
+  background: #1c1e3c
 
 
 ;
@@ -6024,7 +6024,7 @@ button i {
   justify-content: space-between;
 }
 .cs-contact-page-content .cs-contact-page-form-wrap {
-  background: #262626
+  background: #1c1e3c
 
 
 ;
@@ -6109,10 +6109,10 @@ button i {
 .cs-form-cp-in.cs-form-light form :focus-visible,
 .cs-form-cp-in.cs-form-light form :focus,
 .cs-form-cp-in.cs-form-light form :target {
-  border-bottom: 1px solid #2F6DFB;
+  border-bottom: 1px solid #356db5;
 }
 .cs-form-cp-in.cs-form-light form :focus {
-  border-bottom: 1px solid #2F6DFB;
+  border-bottom: 1px solid #356db5;
 }
 
 .input-row-2col {
@@ -6207,7 +6207,7 @@ figure img {
 }
 
 .cs-logi-order-track {
-  border-top: 1px dashed #2F6DFB;
+  border-top: 1px dashed #356db5;
   padding-top: 2.5rem;
   display: flex;
   flex-direction: column;
@@ -6232,7 +6232,7 @@ figure img {
   width: 22px;
   height: 22px;
   border-radius: 50%;
-  background: #2F6DFB;
+  background: #356db5;
 }
 .cs-logi-order-track-status-line {
   display: block;

@@ -62,7 +62,7 @@ const Testimonials = () => {
                         >
                           <path
                             d="M30.1272 46L39.4171 0H54.1012V46H30.1272ZM0.15979 46L9.44969 0H24.1337V46H0.15979Z"
-                            fill="#2F6DFB"
+                            fill="#356db5"
                           />
                         </svg>
                       </div>

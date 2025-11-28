@@ -12,7 +12,7 @@ const SvgIcon = () => {
       <g clipPath="url(#clip0_4589_11874)">
         <path
           d="M0.931641 18.682L15.7481 9.72777L0.931641 0.773499V18.682Z"
-          fill="#2F6DFB"
+          fill="#356db5"
         />
         <path
           opacity="0.4"
@@ -21,7 +21,7 @@ const SvgIcon = () => {
         />
         <path
           d="M17.25 18.6821L32.0664 9.72783L17.25 0.77356V18.6821Z"
-          fill="#2F6DFB"
+          fill="#356db5"
         />
         <path
           opacity="0.4"

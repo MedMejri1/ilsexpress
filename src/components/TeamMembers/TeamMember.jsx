@@ -26,7 +26,7 @@ const TeamMember = ({ member }) => {
           >
             <path
               d="M0.731567 18.4727L18.4678 9.47266L0.731567 0.472656V18.4727Z"
-              fill="#2F6DFB"
+              fill="#356db5"
             />
             <path
               opacity="0.4"
@@ -36,7 +36,7 @@ const TeamMember = ({ member }) => {
           </svg>
         </div>
       </div>
-      <div className="cs-social-contact">
+      {/* <div className="cs-social-contact">
         <ul>
           <li>
             <Link to="#">
@@ -59,7 +59,7 @@ const TeamMember = ({ member }) => {
             </Link>
           </li>
         </ul>
-      </div>
+      </div> */}
     </div>
   );
 };

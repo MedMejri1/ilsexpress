@@ -19,7 +19,7 @@ const MovingText = ({ text, style }) => {
           <g clipPath="url(#clip0_4589_497)">
             <path
               d="M0.386719 69.8221L58.0062 34.9999L0.386719 0.177734V69.8221Z"
-              fill="#2F6DFB"
+              fill="#356db5"
             />
             <path
               opacity="0.4"
@@ -28,7 +28,7 @@ const MovingText = ({ text, style }) => {
             />
             <path
               d="M63.8484 69.8221L121.468 34.9999L63.8484 0.177734V69.8221Z"
-              fill="#2F6DFB"
+              fill="#356db5"
             />
             <path
               opacity="0.4"
@@ -58,7 +58,7 @@ const MovingText = ({ text, style }) => {
           <g clipPath="url(#clip0_4589_9041)">
             <path
               d="M0.935547 40.7474L33.861 20.8491L0.935547 0.950684V40.7474Z"
-              fill="#2F6DFB"
+              fill="#356db5"
             />
             <path
               opacity="0.4"
@@ -67,7 +67,7 @@ const MovingText = ({ text, style }) => {
             />
             <path
               d="M37.1992 40.7474L70.1246 20.8491L37.1992 0.950684V40.7474Z"
-              fill="#2F6DFB"
+              fill="#356db5"
             />
             <path
               opacity="0.4"

@@ -14,6 +14,7 @@ import CaseStudy from "@/pages/CaseStudy";
 import CaseStudyDetails from "@/pages/CaseStudyDetails";
 import FAQ from "@/pages/FAQ";
 import Pricing from "@/pages/Pricing";
+import Certifications from "@/pages/Certifications";
 import ErrorPage from "@/pages/ErrorPage";
 import OceanCargo from "@/pages/OceanCargo";
 import AirFreight from "@/pages/AirFreight";
@@ -45,6 +46,7 @@ function App() {
           path="case-study-details/:caseItemId"
           element={<CaseStudyDetails />}
         />
+        <Route path="certifications" element={<Certifications />} />
         <Route path="pricing" element={<Pricing />} />
         <Route path="order-tracking" element={<OrderTracking />} />
         <Route path="faq" element={<FAQ />} />
