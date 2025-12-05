@@ -7,12 +7,31 @@ import CaseLists from "@/components/CaseStudy/CaseLists";
 const CaseStudy = () => {
   return (
     <>
-      <BreadCrumb title={"Case Study"} />
+      <BreadCrumb title={"Our Brochure"} />
       <div className="cs-section-height"></div>
-      <CaseLists />
+
+      {/* Flipbook iframe */}
+      <div style={{ width: "100%", overflow: "hidden" }}>
+        <iframe
+          allowFullScreen
+          allow="clipboard-write"
+          scrolling="no"
+          className="fp-iframe"
+          src="https://heyzine.com/flip-book/acd76e3a7f.html"
+          style={{
+            border: "0px",
+            width: "100%",
+            height: "477px",
+          }}
+        ></iframe>
+      </div>
+
+      {/* <CaseLists /> */}
+
       <CtaSection style={"style2"} bg={"none"} />
       <div className="cs-section-height"></div>
-      <ClientAreaAbout />
+
+      {/* <ClientAreaAbout /> */}
     </>
   );
 };

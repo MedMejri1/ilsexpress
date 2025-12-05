@@ -25,7 +25,9 @@ function Home() {
       <Counter />
       <CtaSection style={"style2"} />
       <Testimonials />
+     
       <TeamSliderSection />
+       <ProjectSlider />
       <CompanyFeature />
       
     </>

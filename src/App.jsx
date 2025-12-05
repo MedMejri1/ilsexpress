@@ -41,7 +41,7 @@ function App() {
           path="blog-details-nosidebar/:blogId"
           element={<BlogDetailsTwo />}
         />
-        <Route path="case-study" element={<CaseStudy />} />
+        <Route path="brochure" element={<CaseStudy />} />
         <Route
           path="case-study-details/:caseItemId"
           element={<CaseStudyDetails />}
