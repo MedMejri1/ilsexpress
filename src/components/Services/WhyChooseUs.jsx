@@ -3,7 +3,6 @@ import CompanyFeatureItem from "./CompanyFeatureItem.jsx";
 import SectionTitle from "@/components/SectionTitle/SectionTitle.jsx";
 import RevealImage from "@/components/RevealImage/RevealImage.jsx";
 
-import airfreightdrone from "/assets/img/air-freight/air-freight-drone.jpg";
 
 const features = [
   {
@@ -68,7 +67,7 @@ const WhyChooseUs = () => {
             </div>
             <div className="col-xl-6 col-lg-12">
               <RevealImage
-                image={airfreightdrone}
+              
                 className="cs-com-fe-img horizontal"
               />
             </div>
