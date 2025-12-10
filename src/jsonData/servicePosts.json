@@ -51,7 +51,7 @@
     "paragraphs": [
       "ILS EXPRESS provides efficient and flexible international road transport services, ensuring optimal delivery worldwide through an extensive and secure network."
     ],
-    "imageSrc": "/assets/img/service-road.jpg",
+    "imageSrc": "/assets/img/service-cu.jpg",
     "sections": [
       {
         "title": "Overview of Services",
@@ -141,7 +141,7 @@
     "paragraphs": [
       "ILS EXPRESS provides shared sea freight (LCL) solutions to optimize shipping costs while ensuring reliable and efficient maritime transport."
     ],
-    "imageSrc": "/assets/img/service-groupage.jpg",
+    "imageSrc": "/assets/img/service-sea.jpg",
     "sections": [
       {
         "title": "Overview of Services",
@@ -186,7 +186,7 @@
     "paragraphs": [
       "ILS EXPRESS simplifies and optimizes your customs and transit formalities for smooth and compliant import-export operations."
     ],
-    "imageSrc": "/assets/img/service-customs.jpg",
+    "imageSrc": "/assets/img/service-cu.jpg",
     "sections": [
       {
         "title": "Overview of Services",

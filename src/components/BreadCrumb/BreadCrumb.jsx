@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import ParallaxBackground from "@/components/DynamicBackground/ParallaxBackground";
 import SvgIcon from "./SvgIcon";
 
-import breadcrumbImg from "/assets/img/logi-breadcrumb-main1.jpg";
+import breadcrumbImg from "/assets/img/logi-breadcrumb-main1.png";
 
 const BreadCrumb = ({ title }) => {
   return (

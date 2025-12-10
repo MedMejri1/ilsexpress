@@ -8,7 +8,7 @@ const projects = [
   {
     id: 1,
     title: "View Our Brochure for a Complete Overview",
-    image: "/assets/img/projects/project-slider-img-s1.jpg",
+    image: "/assets/img/projects/project-slider-img-s1.jpeg",
     thumb: "/assets/img/projects/slider-thumb.jpg",
   },
   // {
